@@ -1,4 +1,5 @@
-[
+{
+    "resultList" : [
 	{
 		"NODE_NM": "경부선시점",
 		"CONZONE_ID": "0010CZE005",
@@ -5063,3 +5064,4 @@
 		"NODE_NM": ""
 	}
 ]
+}
