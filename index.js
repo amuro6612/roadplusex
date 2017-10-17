@@ -43,6 +43,11 @@ else {
 	});
 }
 
+app.get('/', function(req,res) {
+	//console.log(__dirname);
+	 return res.send('hellow world');
+});
+
 app.get('/routetraffic.do', function(req,res) {
 	//console.log(__dirname);
 	fs.readFile(__dirname + '/json' +  '/routetraffic.json', 'utf8', function(err, data) {
