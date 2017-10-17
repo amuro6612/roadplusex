@@ -45,7 +45,7 @@ else {
 
 app.get('/', function(req,res) {
 	//console.log(__dirname);
-	 return res.send('hellow world2');
+	 return res.send('roadplus-ex');
 });
 
 app.get('/routetraffic.do', function(req,res) {
