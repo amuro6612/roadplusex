@@ -1,0 +1,366 @@
+{
+	"resultMsg": "",
+	"broadCastList": [{
+		"brd_seq": "0",
+		"brd_title": "교통방송 생방송(LIVE)",
+		"brd_start_time": "",
+		"brd_longTime": "",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/excast.hscdn.com\/live\/real\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/live_image.jpg",
+		"brd_fileName_A": "rtsp:\/\/excast.hscdn.com\/live\/real",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/live_image.jpg"
+	}, {
+		"brd_seq": "1",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 17:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086965_000000374059.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086965_000000374060.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086965_000000374059.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086965_000000374060.jpg"
+	}, {
+		"brd_seq": "2",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 16:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086964_000000374052.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086964_000000374053.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086964_000000374052.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086964_000000374053.jpg"
+	}, {
+		"brd_seq": "3",
+		"brd_title": "exTV 교통속보(경부선 안성, 사고)",
+		"brd_start_time": "2017. 10. 17 16:10",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086963_000000374045.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086963_000000374046.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086963_000000374045.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086963_000000374046.jpg"
+	}, {
+		"brd_seq": "4",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 16:00",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086962_000000374038.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086962_000000374039.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086962_000000374038.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086962_000000374039.jpg"
+	}, {
+		"brd_seq": "5",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 15:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086961_000000374031.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086961_000000374032.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086961_000000374031.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086961_000000374032.jpg"
+	}, {
+		"brd_seq": "6",
+		"brd_title": "exTV 교통방송(CJHV)",
+		"brd_start_time": "2017. 10. 17 14:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086960_000000374024.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086960_000000374025.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086960_000000374024.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086960_000000374025.jpg"
+	}, {
+		"brd_seq": "7",
+		"brd_title": "exTV 교통속보(중부선 중부1터널부근, 작업)",
+		"brd_start_time": "2017. 10. 17 14:45",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086959_000000374017.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086959_000000374018.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086959_000000374017.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086959_000000374018.jpg"
+	}, {
+		"brd_seq": "8",
+		"brd_title": "exTV 교통속보(경부선 청주분기점, 작업)",
+		"brd_start_time": "2017. 10. 17 14:40",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086958_000000374010.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086958_000000374011.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086958_000000374010.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086958_000000374011.jpg"
+	}, {
+		"brd_seq": "9",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 14:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086957_000000374003.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086957_000000374004.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086957_000000374003.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086957_000000374004.jpg"
+	}, {
+		"brd_seq": "10",
+		"brd_title": "exTV 교통방송(YTN-DMB)",
+		"brd_start_time": "2017. 10. 17 13:53",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086956_000000373996.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086956_000000373997.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086956_000000373996.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086956_000000373997.jpg"
+	}, {
+		"brd_seq": "11",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 13:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086955_000000373989.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086955_000000373990.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086955_000000373989.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086955_000000373990.jpg"
+	}, {
+		"brd_seq": "12",
+		"brd_title": "exTV 교통방송(CJHV)",
+		"brd_start_time": "2017. 10. 17 12:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086954_000000373982.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086954_000000373983.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086954_000000373982.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086954_000000373983.jpg"
+	}, {
+		"brd_seq": "13",
+		"brd_title": "exTV 교통방송(SBS)",
+		"brd_start_time": "2017. 10. 17 12:45",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086953_000000373975.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086953_000000373976.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086953_000000373975.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086953_000000373976.jpg"
+	}, {
+		"brd_seq": "14",
+		"brd_title": "exTV 교통방송(CJHV)",
+		"brd_start_time": "2017. 10. 17 11:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086952_000000373968.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086952_000000373969.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086952_000000373968.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086952_000000373969.jpg"
+	}, {
+		"brd_seq": "15",
+		"brd_title": "exTV 교통방송(YTN-DMB)",
+		"brd_start_time": "2017. 10. 17 11:35",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086951_000000373961.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086951_000000373962.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086951_000000373961.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086951_000000373962.jpg"
+	}, {
+		"brd_seq": "16",
+		"brd_title": "exTV 교통방송(CJHV)",
+		"brd_start_time": "2017. 10. 17 10:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086950_000000373954.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086950_000000373955.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086950_000000373954.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086950_000000373955.jpg"
+	}, {
+		"brd_seq": "17",
+		"brd_title": "exTV 교통방송(YTN-DMB)",
+		"brd_start_time": "2017. 10. 17 10:51",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086949_000000373947.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086949_000000373948.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086949_000000373947.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086949_000000373948.jpg"
+	}, {
+		"brd_seq": "18",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 10:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086948_000000373940.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086948_000000373941.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086948_000000373940.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086948_000000373941.jpg"
+	}, {
+		"brd_seq": "19",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 10:00",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086947_000000373933.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086947_000000373934.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086947_000000373933.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086947_000000373934.jpg"
+	}, {
+		"brd_seq": "20",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 09:45",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086946_000000373926.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086946_000000373927.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086946_000000373926.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086946_000000373927.jpg"
+	}, {
+		"brd_seq": "21",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 09:25",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086945_000000373919.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086945_000000373920.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086945_000000373919.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086945_000000373920.jpg"
+	}, {
+		"brd_seq": "22",
+		"brd_title": "exTV 교통속보(경부선 동탄, 사고)",
+		"brd_start_time": "2017. 10. 17 09:10",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086944_000000373912.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086944_000000373913.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086944_000000373912.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086944_000000373913.jpg"
+	}, {
+		"brd_seq": "23",
+		"brd_title": "exTV 교통방송(CJHV)",
+		"brd_start_time": "2017. 10. 17 08:55",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086943_000000373905.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086943_000000373906.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086943_000000373905.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086943_000000373906.jpg"
+	}, {
+		"brd_seq": "24",
+		"brd_title": "exTV 교통방송(YTN-DMB)",
+		"brd_start_time": "2017. 10. 17 07:53",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086941_000000373891.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086941_000000373892.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086941_000000373891.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086941_000000373892.jpg"
+	}, {
+		"brd_seq": "25",
+		"brd_title": "exTV 출근길 교통방송(7시50분~7시57분)",
+		"brd_start_time": "2017. 10. 17 07:50",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086942_000000373898.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086942_000000373899.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086942_000000373898.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086942_000000373899.jpg"
+	}, {
+		"brd_seq": "26",
+		"brd_title": "exTV 출근길 교통방송(7시40분~7시47분)",
+		"brd_start_time": "2017. 10. 17 07:40",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086940_000000373884.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086940_000000373885.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086940_000000373884.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086940_000000373885.jpg"
+	}, {
+		"brd_seq": "27",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 07:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086938_000000373870.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086938_000000373871.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086938_000000373870.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086938_000000373871.jpg"
+	}, {
+		"brd_seq": "28",
+		"brd_title": "exTV 출근길 교통방송(7시30분~7시37분)",
+		"brd_start_time": "2017. 10. 17 07:30",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086939_000000373877.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086939_000000373878.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086939_000000373877.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086939_000000373878.jpg"
+	}, {
+		"brd_seq": "29",
+		"brd_title": "exTV 출근길 교통방송(7시20분~7시27분)",
+		"brd_start_time": "2017. 10. 17 07:20",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086937_000000373863.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086937_000000373864.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086937_000000373863.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086937_000000373864.jpg"
+	}, {
+		"brd_seq": "30",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 07:18",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086936_000000373851.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086936_000000373857.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086936_000000373851.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086936_000000373857.jpg"
+	}, {
+		"brd_seq": "31",
+		"brd_title": "exTV 출근길 교통방송(7시10분~7시17분)",
+		"brd_start_time": "2017. 10. 17 07:10",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086935_000000373849.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086935_000000373852.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086935_000000373849.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086935_000000373852.jpg"
+	}, {
+		"brd_seq": "32",
+		"brd_title": "exTV 출근길 교통방송(7시00분~7시07분)",
+		"brd_start_time": "2017. 10. 17 07:00",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086934_000000373842.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086934_000000373843.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086934_000000373842.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086934_000000373843.jpg"
+	}, {
+		"brd_seq": "33",
+		"brd_title": "exTV 교통방송",
+		"brd_start_time": "2017. 10. 17 07:00",
+		"brd_longTime": "00:02",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086933_000000373835.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086933_000000373836.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086933_000000373835.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086933_000000373836.jpg"
+	}, {
+		"brd_seq": "34",
+		"brd_title": "exTV 교통속보(서울외곽선 서운분기점, 고장)",
+		"brd_start_time": "2017. 10. 17 06:45",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086932_000000373828.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086932_000000373829.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086932_000000373828.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086932_000000373829.jpg"
+	}, {
+		"brd_seq": "35",
+		"brd_title": "exTV 교통속보(영동선 북수원, 작업)",
+		"brd_start_time": "2017. 10. 17 06:25",
+		"brd_longTime": "00:01",
+		"brd_explain": "",
+		"brd_fileName_I": "http:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086931_000000373821.mp4\/playlist.m3u8",
+		"brd_imageName_I": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086931_000000373822.jpg",
+		"brd_fileName_A": "rtsp:\/\/vod.excast.hscdn.com\/exvod\/_definst_\/mp4:mf_000000086931_000000373821.mp4",
+		"brd_imageName_A": "http:\/\/www.roadplus.co.kr\/thumbnail\/mf_000000086931_000000373822.jpg"
+	}],
+	"resultCode": "0",
+	"type": "live"
+}
