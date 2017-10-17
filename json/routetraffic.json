@@ -1,0 +1,11967 @@
+{
+
+"resultList": [{
+
+"NODE_NM": "경부선시점",
+
+"CONZONE_ID": "0010CZE005",
+
+"C_S_NODE_NM": "경부선시점",
+
+"C_E_NODE_NM": "구서IC",
+
+"C_S_NODE_ID": "491",
+
+"C_E_NODE_ID": "4",
+
+"ROUTE_CONF_SERIALNUM": "1",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "0.2",
+
+"BUS_YN": "N",
+
+"SPEED": "0",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "N",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "구서IC",
+
+"CONZONE_ID": "0010CZE010",
+
+"C_S_NODE_NM": "구서IC",
+
+"C_E_NODE_NM": "영락IC",
+
+"C_S_NODE_ID": "4",
+
+"C_E_NODE_ID": "446",
+
+"ROUTE_CONF_SERIALNUM": "2",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.82",
+
+"BUS_YN": "N",
+
+"SPEED": "87.27",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "1",
+
+"CCTV_ID": "cctv00003658",
+
+"CCTV_SEQ": "1",
+
+"CAMERA_AREA": "구서",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3658.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3658image/ch00003658_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영락IC",
+
+"CONZONE_ID": "0010CZE011",
+
+"C_S_NODE_NM": "영락IC",
+
+"C_E_NODE_NM": "부산TG",
+
+"C_S_NODE_ID": "446",
+
+"C_E_NODE_ID": "486",
+
+"ROUTE_CONF_SERIALNUM": "3",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.99",
+
+"BUS_YN": "N",
+
+"SPEED": "81.819999999999993",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "3",
+
+"CCTV_ID": "cctv00003659",
+
+"CCTV_SEQ": "2",
+
+"CAMERA_AREA": "부산영업소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3659.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3659image/ch00003659_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "부산TG",
+
+"CONZONE_ID": "0010CZE020",
+
+"C_S_NODE_NM": "부산TG",
+
+"C_E_NODE_NM": "노포IC",
+
+"C_S_NODE_ID": "486",
+
+"C_E_NODE_ID": "447",
+
+"ROUTE_CONF_SERIALNUM": "4",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.07",
+
+"BUS_YN": "N",
+
+"SPEED": "92.6",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "4.9000000000000004",
+
+"CCTV_ID": "cctv00003660",
+
+"CCTV_SEQ": "3",
+
+"CAMERA_AREA": "노포교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3660.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3660image/ch00003660_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "노포IC",
+
+"CONZONE_ID": "0010CZE030",
+
+"C_S_NODE_NM": "노포IC",
+
+"C_E_NODE_NM": "양산JC",
+
+"C_S_NODE_ID": "447",
+
+"C_E_NODE_ID": "155",
+
+"ROUTE_CONF_SERIALNUM": "5",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.78",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "7",
+
+"CCTV_ID": "cctv00003661",
+
+"CCTV_SEQ": "4",
+
+"CAMERA_AREA": "녹동육교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3661.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3661image/ch00003661_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "노포IC",
+
+"CONZONE_ID": "0010CZE030",
+
+"C_S_NODE_NM": "노포IC",
+
+"C_E_NODE_NM": "양산JC",
+
+"C_S_NODE_ID": "447",
+
+"C_E_NODE_ID": "155",
+
+"ROUTE_CONF_SERIALNUM": "5",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.78",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "9",
+
+"CCTV_ID": "cctv00003955",
+
+"CCTV_SEQ": "5",
+
+"CAMERA_AREA": "외송1교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3955.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3955image/ch00003955_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "노포IC",
+
+"CONZONE_ID": "0010CZE030",
+
+"C_S_NODE_NM": "노포IC",
+
+"C_E_NODE_NM": "양산JC",
+
+"C_S_NODE_ID": "447",
+
+"C_E_NODE_ID": "155",
+
+"ROUTE_CONF_SERIALNUM": "5",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.78",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "10.9",
+
+"CCTV_ID": "cctv00003662",
+
+"CCTV_SEQ": "6",
+
+"CAMERA_AREA": "양산휴게소",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3662.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3662image/ch00003662_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산JC",
+
+"CONZONE_ID": "0010CZE040",
+
+"C_S_NODE_NM": "양산JC",
+
+"C_E_NODE_NM": "양산IC",
+
+"C_S_NODE_ID": "155",
+
+"C_E_NODE_ID": "453",
+
+"ROUTE_CONF_SERIALNUM": "6",
+
+"ROUTE_NO_LIST": "5510",
+
+"LINK_LEN_KM": "5.08",
+
+"BUS_YN": "N",
+
+"SPEED": "95.95",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "14.4",
+
+"CCTV_ID": "cctv00003664",
+
+"CCTV_SEQ": "7",
+
+"CAMERA_AREA": "양산정류장",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3664.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3664image/ch00003664_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산JC",
+
+"CONZONE_ID": "0010CZE040",
+
+"C_S_NODE_NM": "양산JC",
+
+"C_E_NODE_NM": "양산IC",
+
+"C_S_NODE_ID": "155",
+
+"C_E_NODE_ID": "453",
+
+"ROUTE_CONF_SERIALNUM": "6",
+
+"ROUTE_NO_LIST": "5510",
+
+"LINK_LEN_KM": "5.08",
+
+"BUS_YN": "N",
+
+"SPEED": "95.95",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "15.6",
+
+"CCTV_ID": "cctv00006061",
+
+"CCTV_SEQ": "8",
+
+"CAMERA_AREA": "하북정교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv6061.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv6061image/ch00006061_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산JC",
+
+"CONZONE_ID": "0010CZE040",
+
+"C_S_NODE_NM": "양산JC",
+
+"C_E_NODE_NM": "양산IC",
+
+"C_S_NODE_ID": "155",
+
+"C_E_NODE_ID": "453",
+
+"ROUTE_CONF_SERIALNUM": "6",
+
+"ROUTE_NO_LIST": "5510",
+
+"LINK_LEN_KM": "5.08",
+
+"BUS_YN": "N",
+
+"SPEED": "95.95",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "17.600000000000001",
+
+"CCTV_ID": "cctv00003634",
+
+"CCTV_SEQ": "9",
+
+"CAMERA_AREA": "양산",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3634.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3634image/ch00003634_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산IC",
+
+"CONZONE_ID": "0010CZE050",
+
+"C_S_NODE_NM": "양산IC",
+
+"C_E_NODE_NM": "통도사 하이패스IC",
+
+"C_S_NODE_ID": "453",
+
+"C_E_NODE_ID": "652",
+
+"ROUTE_CONF_SERIALNUM": "7",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "14.11",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "19.3",
+
+"CCTV_ID": "cctv00003635",
+
+"CCTV_SEQ": "10",
+
+"CAMERA_AREA": "덕운육교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3635.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3635image/ch00003635_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산IC",
+
+"CONZONE_ID": "0010CZE050",
+
+"C_S_NODE_NM": "양산IC",
+
+"C_E_NODE_NM": "통도사 하이패스IC",
+
+"C_S_NODE_ID": "453",
+
+"C_E_NODE_ID": "652",
+
+"ROUTE_CONF_SERIALNUM": "7",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "14.11",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "21.7",
+
+"CCTV_ID": "cctv00003636",
+
+"CCTV_SEQ": "11",
+
+"CAMERA_AREA": "석계정류장",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3636.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3636image/ch00003636_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산IC",
+
+"CONZONE_ID": "0010CZE050",
+
+"C_S_NODE_NM": "양산IC",
+
+"C_E_NODE_NM": "통도사 하이패스IC",
+
+"C_S_NODE_ID": "453",
+
+"C_E_NODE_ID": "652",
+
+"ROUTE_CONF_SERIALNUM": "7",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "14.11",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "24",
+
+"CCTV_ID": "cctv00003637",
+
+"CCTV_SEQ": "12",
+
+"CAMERA_AREA": "신전1교",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3637.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3637image/ch00003637_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산IC",
+
+"CONZONE_ID": "0010CZE050",
+
+"C_S_NODE_NM": "양산IC",
+
+"C_E_NODE_NM": "통도사 하이패스IC",
+
+"C_S_NODE_ID": "453",
+
+"C_E_NODE_ID": "652",
+
+"ROUTE_CONF_SERIALNUM": "7",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "14.11",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "25.4",
+
+"CCTV_ID": "cctv00003638",
+
+"CCTV_SEQ": "13",
+
+"CAMERA_AREA": "내원교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3638.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3638image/ch00003638_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "양산IC",
+
+"CONZONE_ID": "0010CZE050",
+
+"C_S_NODE_NM": "양산IC",
+
+"C_E_NODE_NM": "통도사 하이패스IC",
+
+"C_S_NODE_ID": "453",
+
+"C_E_NODE_ID": "652",
+
+"ROUTE_CONF_SERIALNUM": "7",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "14.11",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "28.9",
+
+"CCTV_ID": "cctv00003639",
+
+"CCTV_SEQ": "14",
+
+"CAMERA_AREA": "성천교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3639.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3639image/ch00003639_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "통도사 하이패스IC",
+
+"CONZONE_ID": "0010CZE055",
+
+"C_S_NODE_NM": "통도사 하이패스IC",
+
+"C_E_NODE_NM": "통도사IC",
+
+"C_S_NODE_ID": "652",
+
+"C_E_NODE_ID": "160",
+
+"ROUTE_CONF_SERIALNUM": "8",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.05",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "31.8",
+
+"CCTV_ID": "cctv00003640",
+
+"CCTV_SEQ": "15",
+
+"CAMERA_AREA": "통도사",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3640.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3640image/ch00003640_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "통도사IC",
+
+"CONZONE_ID": "0010CZE060",
+
+"C_S_NODE_NM": "통도사IC",
+
+"C_E_NODE_NM": "서울산IC",
+
+"C_S_NODE_ID": "160",
+
+"C_E_NODE_ID": "203",
+
+"ROUTE_CONF_SERIALNUM": "9",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "6.43",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "33.4",
+
+"CCTV_ID": "cctv00006062",
+
+"CCTV_SEQ": "16",
+
+"CAMERA_AREA": "상천교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv6062.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv6062image/ch00006062_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "통도사IC",
+
+"CONZONE_ID": "0010CZE060",
+
+"C_S_NODE_NM": "통도사IC",
+
+"C_E_NODE_NM": "서울산IC",
+
+"C_S_NODE_ID": "160",
+
+"C_E_NODE_ID": "203",
+
+"ROUTE_CONF_SERIALNUM": "9",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "6.43",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "35",
+
+"CCTV_ID": "cctv00003641",
+
+"CCTV_SEQ": "17",
+
+"CAMERA_AREA": "비상활주로_경부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3641.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3641image/ch00003641_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "통도사IC",
+
+"CONZONE_ID": "0010CZE060",
+
+"C_S_NODE_NM": "통도사IC",
+
+"C_E_NODE_NM": "서울산IC",
+
+"C_S_NODE_ID": "160",
+
+"C_E_NODE_ID": "203",
+
+"ROUTE_CONF_SERIALNUM": "9",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "6.43",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "38.299999999999997",
+
+"CCTV_ID": "cctv00003642",
+
+"CCTV_SEQ": "18",
+
+"CAMERA_AREA": "서울산",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3642.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3642image/ch00003642_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "서울산IC",
+
+"CONZONE_ID": "0010CZE070",
+
+"C_S_NODE_NM": "서울산IC",
+
+"C_E_NODE_NM": "언양JC",
+
+"C_S_NODE_ID": "203",
+
+"C_E_NODE_ID": "204",
+
+"ROUTE_CONF_SERIALNUM": "10",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.63",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "41.2",
+
+"CCTV_ID": "cctv00003643",
+
+"CCTV_SEQ": "19",
+
+"CAMERA_AREA": "언양분기점",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3643.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3643image/ch00003643_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "43",
+
+"CCTV_ID": "cctv00003963",
+
+"CCTV_SEQ": "20",
+
+"CAMERA_AREA": "언양휴게소",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3963.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3963image/ch00003963_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "45.5",
+
+"CCTV_ID": "cctv00003644",
+
+"CCTV_SEQ": "21",
+
+"CAMERA_AREA": "천전육교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3644.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3644image/ch00003644_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "47.4",
+
+"CCTV_ID": "cctv00003964",
+
+"CCTV_SEQ": "22",
+
+"CAMERA_AREA": "천전1교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3964.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3964image/ch00003964_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "49.3",
+
+"CCTV_ID": "cctv00003931",
+
+"CCTV_SEQ": "23",
+
+"CAMERA_AREA": "인보교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3931.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3931image/ch00003931_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "50.8",
+
+"CCTV_ID": "cctv00003645",
+
+"CCTV_SEQ": "24",
+
+"CAMERA_AREA": "인보정류장",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3645.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3645image/ch00003645_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "언양JC",
+
+"CONZONE_ID": "0010CZE080",
+
+"C_S_NODE_NM": "언양JC",
+
+"C_E_NODE_NM": "활천IC",
+
+"C_S_NODE_ID": "204",
+
+"C_E_NODE_ID": "635",
+
+"ROUTE_CONF_SERIALNUM": "11",
+
+"ROUTE_NO_LIST": "160",
+
+"LINK_LEN_KM": "17.09",
+
+"BUS_YN": "N",
+
+"SPEED": "79.08",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "56.8",
+
+"CCTV_ID": "cctv00003647",
+
+"CCTV_SEQ": "25",
+
+"CAMERA_AREA": "활천교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3647.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3647image/ch00003647_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "59",
+
+"CCTV_ID": "cctv00003648",
+
+"CCTV_SEQ": "26",
+
+"CAMERA_AREA": "경주휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3648.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3648image/ch00003648_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "61",
+
+"CCTV_ID": "cctv00005095",
+
+"CCTV_SEQ": "27",
+
+"CAMERA_AREA": "이조천교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv5095.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5095image/ch00005095_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "62.9",
+
+"CCTV_ID": "cctv00003649",
+
+"CCTV_SEQ": "28",
+
+"CAMERA_AREA": "내남정류장",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3649.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3649image/ch00003649_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "64.3",
+
+"CCTV_ID": "cctv00003933",
+
+"CCTV_SEQ": "29",
+
+"CAMERA_AREA": "용장초교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3933.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3933image/ch00003933_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "66.290000000000006",
+
+"CCTV_ID": "cctv00003650",
+
+"CCTV_SEQ": "30",
+
+"CAMERA_AREA": "새말교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3650.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3650image/ch00003650_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "활천IC",
+
+"CONZONE_ID": "0010CZE085",
+
+"C_S_NODE_NM": "활천IC",
+
+"C_E_NODE_NM": "경주IC",
+
+"C_S_NODE_ID": "635",
+
+"C_E_NODE_ID": "8",
+
+"ROUTE_CONF_SERIALNUM": "12",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.06",
+
+"BUS_YN": "N",
+
+"SPEED": "81.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "67.5",
+
+"CCTV_ID": "cctv00003651",
+
+"CCTV_SEQ": "31",
+
+"CAMERA_AREA": "경주",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3651.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3651image/ch00003651_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "3",
+
+"INCIDENT_DESC": "작업",
+
+"MSG": "(1차로)포장보수 작업중",
+
+"INCIDENT_POS_NAME": "경주(휴)부근(61K)"
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "69.099999999999994",
+
+"CCTV_ID": "cctv00003531",
+
+"CCTV_SEQ": "32",
+
+"CAMERA_AREA": "경주2",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3531.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3531image/ch00003531_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "70.67",
+
+"CCTV_ID": "cctv00003896",
+
+"CCTV_SEQ": "33",
+
+"CAMERA_AREA": "광명_경부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3896.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3896image/ch00003896_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "71.7",
+
+"CCTV_ID": "cctv00003530",
+
+"CCTV_SEQ": "34",
+
+"CAMERA_AREA": "광명교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3530.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3530image/ch00003530_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "75.2",
+
+"CCTV_ID": "cctv00003529",
+
+"CCTV_SEQ": "35",
+
+"CAMERA_AREA": "금척교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3529.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3529image/ch00003529_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "77.2",
+
+"CCTV_ID": "cctv00003528",
+
+"CCTV_SEQ": "36",
+
+"CAMERA_AREA": "건천휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3528.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3528image/ch00003528_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경주IC",
+
+"CONZONE_ID": "0010CZE090",
+
+"C_S_NODE_NM": "경주IC",
+
+"C_E_NODE_NM": "건천IC",
+
+"C_S_NODE_ID": "8",
+
+"C_E_NODE_ID": "9",
+
+"ROUTE_CONF_SERIALNUM": "13",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.4",
+
+"BUS_YN": "N",
+
+"SPEED": "82.68",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "78.5",
+
+"CCTV_ID": "cctv00003527",
+
+"CCTV_SEQ": "37",
+
+"CAMERA_AREA": "건천",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3527.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3527image/ch00003527_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "81.2",
+
+"CCTV_ID": "cctv00003526",
+
+"CCTV_SEQ": "38",
+
+"CAMERA_AREA": "경주터널",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3526.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3526image/ch00003526_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "82.2",
+
+"CCTV_ID": "cctv00005632",
+
+"CCTV_SEQ": "39",
+
+"CAMERA_AREA": "[서울]경주터널(서울)",
+
+"HLS_URL": "http://live10.exmobile.hscdn.com/exlive/cctv5632.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5632image/ch00005632_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "83.1",
+
+"CCTV_ID": "cctv00003525",
+
+"CCTV_SEQ": "40",
+
+"CAMERA_AREA": "경주터널2",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3525.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3525image/ch00003525_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "84.8",
+
+"CCTV_ID": "cctv00003524",
+
+"CCTV_SEQ": "41",
+
+"CAMERA_AREA": "아화교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3524.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3524image/ch00003524_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "87.9",
+
+"CCTV_ID": "cctv00003523",
+
+"CCTV_SEQ": "42",
+
+"CAMERA_AREA": "서당육교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3523.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3523image/ch00003523_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "건천IC",
+
+"CONZONE_ID": "0010CZE100",
+
+"C_S_NODE_NM": "건천IC",
+
+"C_E_NODE_NM": "영천JC",
+
+"C_S_NODE_ID": "9",
+
+"C_E_NODE_ID": "1012",
+
+"ROUTE_CONF_SERIALNUM": "14",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.18",
+
+"BUS_YN": "N",
+
+"SPEED": "87.93",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "90.7",
+
+"CCTV_ID": "cctv00003522",
+
+"CCTV_SEQ": "43",
+
+"CAMERA_AREA": "영천분기점",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3522.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3522image/ch00003522_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천JC",
+
+"CONZONE_ID": "0010CZE105",
+
+"C_S_NODE_NM": "영천JC",
+
+"C_E_NODE_NM": "영천IC",
+
+"C_S_NODE_ID": "1012",
+
+"C_E_NODE_ID": "116",
+
+"ROUTE_CONF_SERIALNUM": "15",
+
+"ROUTE_NO_LIST": "3010",
+
+"LINK_LEN_KM": "5.55",
+
+"BUS_YN": "N",
+
+"SPEED": "92.35",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "93.2",
+
+"CCTV_ID": "cctv00003521",
+
+"CCTV_SEQ": "44",
+
+"CAMERA_AREA": "반정교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3521.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3521image/ch00003521_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천JC",
+
+"CONZONE_ID": "0010CZE105",
+
+"C_S_NODE_NM": "영천JC",
+
+"C_E_NODE_NM": "영천IC",
+
+"C_S_NODE_ID": "1012",
+
+"C_E_NODE_ID": "116",
+
+"ROUTE_CONF_SERIALNUM": "15",
+
+"ROUTE_NO_LIST": "3010",
+
+"LINK_LEN_KM": "5.55",
+
+"BUS_YN": "N",
+
+"SPEED": "92.35",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "94.7",
+
+"CCTV_ID": "cctv00003520",
+
+"CCTV_SEQ": "45",
+
+"CAMERA_AREA": "영천정류장",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3520.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3520image/ch00003520_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "96.6",
+
+"CCTV_ID": "cctv00003519",
+
+"CCTV_SEQ": "46",
+
+"CAMERA_AREA": "영천_경부",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3519.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3519image/ch00003519_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "99.9",
+
+"CCTV_ID": "cctv00003518",
+
+"CCTV_SEQ": "47",
+
+"CAMERA_AREA": "호남육교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3518.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3518image/ch00003518_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "101.8",
+
+"CCTV_ID": "cctv00003517",
+
+"CCTV_SEQ": "48",
+
+"CAMERA_AREA": "대창정류장",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3517.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3517image/ch00003517_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "104.4",
+
+"CCTV_ID": "cctv00003516",
+
+"CCTV_SEQ": "49",
+
+"CAMERA_AREA": "강회육교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3516.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3516image/ch00003516_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "107.1",
+
+"CCTV_ID": "cctv00003515",
+
+"CCTV_SEQ": "50",
+
+"CAMERA_AREA": "평사휴게소",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3515.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3515image/ch00003515_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "109.4",
+
+"CCTV_ID": "cctv00003514",
+
+"CCTV_SEQ": "51",
+
+"CAMERA_AREA": "경산1교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3514.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3514image/ch00003514_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영천IC",
+
+"CONZONE_ID": "0010CZE110",
+
+"C_S_NODE_NM": "영천IC",
+
+"C_E_NODE_NM": "경산IC",
+
+"C_S_NODE_ID": "116",
+
+"C_E_NODE_ID": "115",
+
+"ROUTE_CONF_SERIALNUM": "16",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.45",
+
+"BUS_YN": "N",
+
+"SPEED": "99.4",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "110.5",
+
+"CCTV_ID": "cctv00003513",
+
+"CCTV_SEQ": "52",
+
+"CAMERA_AREA": "경산휴게소",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3513.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3513image/ch00003513_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경산IC",
+
+"CONZONE_ID": "0010CZE120",
+
+"C_S_NODE_NM": "경산IC",
+
+"C_E_NODE_NM": "동대구JC",
+
+"C_S_NODE_ID": "115",
+
+"C_E_NODE_ID": "10",
+
+"ROUTE_CONF_SERIALNUM": "17",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.26",
+
+"BUS_YN": "N",
+
+"SPEED": "91.7",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "113.2",
+
+"CCTV_ID": "cctv00003512",
+
+"CCTV_SEQ": "53",
+
+"CAMERA_AREA": "경산",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3512.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3512image/ch00003512_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경산IC",
+
+"CONZONE_ID": "0010CZE120",
+
+"C_S_NODE_NM": "경산IC",
+
+"C_E_NODE_NM": "동대구JC",
+
+"C_S_NODE_ID": "115",
+
+"C_E_NODE_ID": "10",
+
+"ROUTE_CONF_SERIALNUM": "17",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.26",
+
+"BUS_YN": "N",
+
+"SPEED": "91.7",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "115.1",
+
+"CCTV_ID": "cctv00003511",
+
+"CCTV_SEQ": "54",
+
+"CAMERA_AREA": "청천2교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3511.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3511image/ch00003511_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경산IC",
+
+"CONZONE_ID": "0010CZE120",
+
+"C_S_NODE_NM": "경산IC",
+
+"C_E_NODE_NM": "동대구JC",
+
+"C_S_NODE_ID": "115",
+
+"C_E_NODE_ID": "10",
+
+"ROUTE_CONF_SERIALNUM": "17",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.26",
+
+"BUS_YN": "N",
+
+"SPEED": "91.7",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "117.8",
+
+"CCTV_ID": "cctv00003510",
+
+"CCTV_SEQ": "55",
+
+"CAMERA_AREA": "대림육교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3510.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3510image/ch00003510_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경산IC",
+
+"CONZONE_ID": "0010CZE120",
+
+"C_S_NODE_NM": "경산IC",
+
+"C_E_NODE_NM": "동대구JC",
+
+"C_S_NODE_ID": "115",
+
+"C_E_NODE_ID": "10",
+
+"ROUTE_CONF_SERIALNUM": "17",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.26",
+
+"BUS_YN": "N",
+
+"SPEED": "91.7",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "120.2",
+
+"CCTV_ID": "cctv00003509",
+
+"CCTV_SEQ": "56",
+
+"CAMERA_AREA": "율암2교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3509.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3509image/ch00003509_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "경산IC",
+
+"CONZONE_ID": "0010CZE120",
+
+"C_S_NODE_NM": "경산IC",
+
+"C_E_NODE_NM": "동대구JC",
+
+"C_S_NODE_ID": "115",
+
+"C_E_NODE_ID": "10",
+
+"ROUTE_CONF_SERIALNUM": "17",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.26",
+
+"BUS_YN": "N",
+
+"SPEED": "91.7",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "121.8",
+
+"CCTV_ID": "cctv00002300",
+
+"CCTV_SEQ": "57",
+
+"CAMERA_AREA": "동대구",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv2300.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2300image/ch00002300_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동대구JC",
+
+"CONZONE_ID": "0010CZE130",
+
+"C_S_NODE_NM": "동대구JC",
+
+"C_E_NODE_NM": "도동JC",
+
+"C_S_NODE_ID": "10",
+
+"C_E_NODE_ID": "18",
+
+"ROUTE_CONF_SERIALNUM": "18",
+
+"ROUTE_NO_LIST": "552",
+
+"LINK_LEN_KM": "4.09",
+
+"BUS_YN": "N",
+
+"SPEED": "93.58",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "124.11",
+
+"CCTV_ID": "cctv00003897",
+
+"CCTV_SEQ": "58",
+
+"CAMERA_AREA": "방촌",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3897.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3897image/ch00003897_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "도동JC",
+
+"CONZONE_ID": "0010CZE140",
+
+"C_S_NODE_NM": "도동JC",
+
+"C_E_NODE_NM": "북대구IC",
+
+"C_S_NODE_ID": "18",
+
+"C_E_NODE_ID": "12",
+
+"ROUTE_CONF_SERIALNUM": "19",
+
+"ROUTE_NO_LIST": "200",
+
+"LINK_LEN_KM": "7.68",
+
+"BUS_YN": "N",
+
+"SPEED": "99.75",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "127.3",
+
+"CCTV_ID": "cctv00003507",
+
+"CCTV_SEQ": "59",
+
+"CAMERA_AREA": "도동분기점_경부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3507.stream/playlist.m3u8",
+
+"FILEURL_IMG": "exmobil[email protected]/cctv3507image/ch00003507_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "도동JC",
+
+"CONZONE_ID": "0010CZE140",
+
+"C_S_NODE_NM": "도동JC",
+
+"C_E_NODE_NM": "북대구IC",
+
+"C_S_NODE_ID": "18",
+
+"C_E_NODE_ID": "12",
+
+"ROUTE_CONF_SERIALNUM": "19",
+
+"ROUTE_NO_LIST": "200",
+
+"LINK_LEN_KM": "7.68",
+
+"BUS_YN": "N",
+
+"SPEED": "99.75",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "130.9",
+
+"CCTV_ID": "cctv00003506",
+
+"CCTV_SEQ": "60",
+
+"CAMERA_AREA": "검단",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3506.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3506image/ch00003506_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "도동JC",
+
+"CONZONE_ID": "0010CZE140",
+
+"C_S_NODE_NM": "도동JC",
+
+"C_E_NODE_NM": "북대구IC",
+
+"C_S_NODE_ID": "18",
+
+"C_E_NODE_ID": "12",
+
+"ROUTE_CONF_SERIALNUM": "19",
+
+"ROUTE_NO_LIST": "200",
+
+"LINK_LEN_KM": "7.68",
+
+"BUS_YN": "N",
+
+"SPEED": "99.75",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "133.80000000000001",
+
+"CCTV_ID": "cctv00003505",
+
+"CCTV_SEQ": "61",
+
+"CAMERA_AREA": "북대구",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3505.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3505image/ch00003505_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북대구IC",
+
+"CONZONE_ID": "0010CZE150",
+
+"C_S_NODE_NM": "북대구IC",
+
+"C_E_NODE_NM": "금호JC",
+
+"C_S_NODE_ID": "12",
+
+"C_E_NODE_ID": "13",
+
+"ROUTE_CONF_SERIALNUM": "20",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.48",
+
+"BUS_YN": "N",
+
+"SPEED": "98.65",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "136.80000000000001",
+
+"CCTV_ID": "cctv00003504",
+
+"CCTV_SEQ": "62",
+
+"CAMERA_AREA": "외천교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3504.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3504image/ch00003504_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북대구IC",
+
+"CONZONE_ID": "0010CZE150",
+
+"C_S_NODE_NM": "북대구IC",
+
+"C_E_NODE_NM": "금호JC",
+
+"C_S_NODE_ID": "12",
+
+"C_E_NODE_ID": "13",
+
+"ROUTE_CONF_SERIALNUM": "20",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.48",
+
+"BUS_YN": "N",
+
+"SPEED": "98.65",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "139.1",
+
+"CCTV_ID": "cctv00003503",
+
+"CCTV_SEQ": "63",
+
+"CAMERA_AREA": "금호분기점",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3503.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3503image/ch00003503_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금호JC",
+
+"CONZONE_ID": "0010CZE160",
+
+"C_S_NODE_NM": "금호JC",
+
+"C_E_NODE_NM": "칠곡물류IC",
+
+"C_S_NODE_ID": "13",
+
+"C_E_NODE_ID": "464",
+
+"ROUTE_CONF_SERIALNUM": "21",
+
+"ROUTE_NO_LIST": "550.451",
+
+"LINK_LEN_KM": "10.74",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "141.4",
+
+"CCTV_ID": "cctv00003891",
+
+"CCTV_SEQ": "64",
+
+"CAMERA_AREA": "지천철육교",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3891.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3891image/ch00003891_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금호JC",
+
+"CONZONE_ID": "0010CZE160",
+
+"C_S_NODE_NM": "금호JC",
+
+"C_E_NODE_NM": "칠곡물류IC",
+
+"C_S_NODE_ID": "13",
+
+"C_E_NODE_ID": "464",
+
+"ROUTE_CONF_SERIALNUM": "21",
+
+"ROUTE_NO_LIST": "550.451",
+
+"LINK_LEN_KM": "10.74",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "145.9",
+
+"CCTV_ID": "cctv00003502",
+
+"CCTV_SEQ": "65",
+
+"CAMERA_AREA": "신동재",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3502.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3502image/ch00003502_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금호JC",
+
+"CONZONE_ID": "0010CZE160",
+
+"C_S_NODE_NM": "금호JC",
+
+"C_E_NODE_NM": "칠곡물류IC",
+
+"C_S_NODE_ID": "13",
+
+"C_E_NODE_ID": "464",
+
+"ROUTE_CONF_SERIALNUM": "21",
+
+"ROUTE_NO_LIST": "550.451",
+
+"LINK_LEN_KM": "10.74",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "150",
+
+"CCTV_ID": "cctv00003501",
+
+"CCTV_SEQ": "66",
+
+"CAMERA_AREA": "연화재",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3501.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3501image/ch00003501_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "칠곡물류IC",
+
+"CONZONE_ID": "0010CZE170",
+
+"C_S_NODE_NM": "칠곡물류IC",
+
+"C_E_NODE_NM": "왜관IC",
+
+"C_S_NODE_ID": "464",
+
+"C_E_NODE_ID": "117",
+
+"ROUTE_CONF_SERIALNUM": "22",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.18",
+
+"BUS_YN": "N",
+
+"SPEED": "96.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "153",
+
+"CCTV_ID": "cctv00003500",
+
+"CCTV_SEQ": "67",
+
+"CAMERA_AREA": "왜관",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3500.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3500image/ch00003500_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "155.6",
+
+"CCTV_ID": "cctv00005649",
+
+"CCTV_SEQ": "68",
+
+"CAMERA_AREA": "매원",
+
+"HLS_URL": "http://live10.exmobile.hscdn.com/exlive/cctv5649.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5649image/ch00005649_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "158.1",
+
+"CCTV_ID": "cctv00003499",
+
+"CCTV_SEQ": "69",
+
+"CAMERA_AREA": "칠곡휴게소",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3499.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3499image/ch00003499_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "160.80000000000001",
+
+"CCTV_ID": "cctv00003892",
+
+"CCTV_SEQ": "70",
+
+"CAMERA_AREA": "포남교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3892.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3892image/ch00003892_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "164.28",
+
+"CCTV_ID": "cctv00005138",
+
+"CCTV_SEQ": "71",
+
+"CAMERA_AREA": "낙동대교_경부",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv5138.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5138image/ch00005138_20171016.192700.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "165",
+
+"CCTV_ID": "cctv00006020",
+
+"CCTV_SEQ": "72",
+
+"CAMERA_AREA": "낙동강교",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv6020.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv6020image/ch00006020_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "왜관IC",
+
+"CONZONE_ID": "0010CZE180",
+
+"C_S_NODE_NM": "왜관IC",
+
+"C_E_NODE_NM": "남구미IC",
+
+"C_S_NODE_ID": "117",
+
+"C_E_NODE_ID": "120",
+
+"ROUTE_CONF_SERIALNUM": "23",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "13.98",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "167.1",
+
+"CCTV_ID": "cctv00003497",
+
+"CCTV_SEQ": "73",
+
+"CAMERA_AREA": "남구미",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3497.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3497image/ch00003497_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남구미IC",
+
+"CONZONE_ID": "0010CZE190",
+
+"C_S_NODE_NM": "남구미IC",
+
+"C_E_NODE_NM": "구미IC",
+
+"C_S_NODE_ID": "120",
+
+"C_E_NODE_ID": "122",
+
+"ROUTE_CONF_SERIALNUM": "24",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.07",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "168.3",
+
+"CCTV_ID": "cctv00005653",
+
+"CCTV_SEQ": "74",
+
+"CAMERA_AREA": "임오교",
+
+"HLS_URL": "http://live10.exmobile.hscdn.com/exlive/cctv5653.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5653image/ch00005653_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남구미IC",
+
+"CONZONE_ID": "0010CZE190",
+
+"C_S_NODE_NM": "남구미IC",
+
+"C_E_NODE_NM": "구미IC",
+
+"C_S_NODE_ID": "120",
+
+"C_E_NODE_ID": "122",
+
+"ROUTE_CONF_SERIALNUM": "24",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.07",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "170.8",
+
+"CCTV_ID": "cctv00003496",
+
+"CCTV_SEQ": "75",
+
+"CAMERA_AREA": "광평교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3496.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3496image/ch00003496_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "구미IC",
+
+"CONZONE_ID": "0010CZE200",
+
+"C_S_NODE_NM": "구미IC",
+
+"C_E_NODE_NM": "김천JC",
+
+"C_S_NODE_ID": "122",
+
+"C_E_NODE_ID": "80",
+
+"ROUTE_CONF_SERIALNUM": "25",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.86",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "173.6",
+
+"CCTV_ID": "cctv00003495",
+
+"CCTV_SEQ": "76",
+
+"CAMERA_AREA": "구미",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3495.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3495image/ch00003495_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "구미IC",
+
+"CONZONE_ID": "0010CZE200",
+
+"C_S_NODE_NM": "구미IC",
+
+"C_E_NODE_NM": "김천JC",
+
+"C_S_NODE_ID": "122",
+
+"C_E_NODE_ID": "80",
+
+"ROUTE_CONF_SERIALNUM": "25",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.86",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "177.6",
+
+"CCTV_ID": "cctv00003494",
+
+"CCTV_SEQ": "77",
+
+"CAMERA_AREA": "도량2교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3494.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3494image/ch00003494_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "구미IC",
+
+"CONZONE_ID": "0010CZE200",
+
+"C_S_NODE_NM": "구미IC",
+
+"C_E_NODE_NM": "김천JC",
+
+"C_S_NODE_ID": "122",
+
+"C_E_NODE_ID": "80",
+
+"ROUTE_CONF_SERIALNUM": "25",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.86",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "181.8",
+
+"CCTV_ID": "cctv00003893",
+
+"CCTV_SEQ": "78",
+
+"CAMERA_AREA": "아포교",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3893.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3893image/ch00003893_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천JC",
+
+"CONZONE_ID": "0010CZE210",
+
+"C_S_NODE_NM": "김천JC",
+
+"C_E_NODE_NM": "동김천IC",
+
+"C_S_NODE_ID": "80",
+
+"C_E_NODE_ID": "563",
+
+"ROUTE_CONF_SERIALNUM": "26",
+
+"ROUTE_NO_LIST": "450",
+
+"LINK_LEN_KM": "9.1199999999999992",
+
+"BUS_YN": "N",
+
+"SPEED": "98.04",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "183.3",
+
+"CCTV_ID": "cctv00003942",
+
+"CCTV_SEQ": "79",
+
+"CAMERA_AREA": "김천분기점_경부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3942.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3942image/ch00003942_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천JC",
+
+"CONZONE_ID": "0010CZE210",
+
+"C_S_NODE_NM": "김천JC",
+
+"C_E_NODE_NM": "동김천IC",
+
+"C_S_NODE_ID": "80",
+
+"C_E_NODE_ID": "563",
+
+"ROUTE_CONF_SERIALNUM": "26",
+
+"ROUTE_NO_LIST": "450",
+
+"LINK_LEN_KM": "9.1199999999999992",
+
+"BUS_YN": "N",
+
+"SPEED": "98.04",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "186.5",
+
+"CCTV_ID": "cctv00003493",
+
+"CCTV_SEQ": "80",
+
+"CAMERA_AREA": "작동교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3493.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3493image/ch00003493_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천JC",
+
+"CONZONE_ID": "0010CZE210",
+
+"C_S_NODE_NM": "김천JC",
+
+"C_E_NODE_NM": "동김천IC",
+
+"C_S_NODE_ID": "80",
+
+"C_E_NODE_ID": "563",
+
+"ROUTE_CONF_SERIALNUM": "26",
+
+"ROUTE_NO_LIST": "450",
+
+"LINK_LEN_KM": "9.1199999999999992",
+
+"BUS_YN": "N",
+
+"SPEED": "98.04",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "189.4",
+
+"CCTV_ID": "cctv00003492",
+
+"CCTV_SEQ": "81",
+
+"CAMERA_AREA": "대신2교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3492.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3492image/ch00003492_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천JC",
+
+"CONZONE_ID": "0010CZE210",
+
+"C_S_NODE_NM": "김천JC",
+
+"C_E_NODE_NM": "동김천IC",
+
+"C_S_NODE_ID": "80",
+
+"C_E_NODE_ID": "563",
+
+"ROUTE_CONF_SERIALNUM": "26",
+
+"ROUTE_NO_LIST": "450",
+
+"LINK_LEN_KM": "9.1199999999999992",
+
+"BUS_YN": "N",
+
+"SPEED": "98.04",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "191.25",
+
+"CCTV_ID": "cctv00002000",
+
+"CCTV_SEQ": "82",
+
+"CAMERA_AREA": "대신",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv2000.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2000image/ch00002000_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "192.35",
+
+"CCTV_ID": "cctv00002001",
+
+"CCTV_SEQ": "83",
+
+"CAMERA_AREA": "동김천",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv2001.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2001image/ch00002001_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "193.3",
+
+"CCTV_ID": "cctv00003491",
+
+"CCTV_SEQ": "84",
+
+"CAMERA_AREA": "초곡교",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3491.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3491image/ch00003491_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "195.4",
+
+"CCTV_ID": "cctv00003490",
+
+"CCTV_SEQ": "85",
+
+"CAMERA_AREA": "신촌",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3490.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3490image/ch00003490_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "196.44",
+
+"CCTV_ID": "cctv00006021",
+
+"CCTV_SEQ": "86",
+
+"CAMERA_AREA": "감천교2",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv6021.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv6021image/ch00006021_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "197",
+
+"CCTV_ID": "cctv00003615",
+
+"CCTV_SEQ": "87",
+
+"CAMERA_AREA": "감천교_경부",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3615.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3615image/ch00003615_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동김천IC",
+
+"CONZONE_ID": "0010CZE215",
+
+"C_S_NODE_NM": "동김천IC",
+
+"C_E_NODE_NM": "김천IC",
+
+"C_S_NODE_ID": "563",
+
+"C_E_NODE_ID": "123",
+
+"ROUTE_CONF_SERIALNUM": "27",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.97",
+
+"BUS_YN": "N",
+
+"SPEED": "86.54",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "199.6",
+
+"CCTV_ID": "cctv00006022",
+
+"CCTV_SEQ": "88",
+
+"CAMERA_AREA": "김천2",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv6022.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv6022image/ch00006022_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "200.4",
+
+"CCTV_ID": "cctv00003488",
+
+"CCTV_SEQ": "89",
+
+"CAMERA_AREA": "김천",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3488.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3488image/ch00003488_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "203.2",
+
+"CCTV_ID": "cctv00003487",
+
+"CCTV_SEQ": "90",
+
+"CAMERA_AREA": "인의교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3487.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3487image/ch00003487_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "204.9",
+
+"CCTV_ID": "cctv00003971",
+
+"CCTV_SEQ": "91",
+
+"CAMERA_AREA": "덕천교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3971.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3971image/ch00003971_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "206.2",
+
+"CCTV_ID": "cctv00003486",
+
+"CCTV_SEQ": "92",
+
+"CAMERA_AREA": "봉산정류장",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3486.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3486image/ch00003486_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "209.4",
+
+"CCTV_ID": "cctv00005149",
+
+"CCTV_SEQ": "93",
+
+"CAMERA_AREA": "광천_경부",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv5149.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5149image/ch00005149_20171016.192700.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "211",
+
+"CCTV_ID": "cctv00003484",
+
+"CCTV_SEQ": "94",
+
+"CAMERA_AREA": "추풍령대교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3484.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3484image/ch00003484_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "김천IC",
+
+"CONZONE_ID": "0010CZE220",
+
+"C_S_NODE_NM": "김천IC",
+
+"C_E_NODE_NM": "추풍령IC",
+
+"C_S_NODE_ID": "123",
+
+"C_E_NODE_ID": "82",
+
+"ROUTE_CONF_SERIALNUM": "28",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "12.03",
+
+"BUS_YN": "N",
+
+"SPEED": "88.48",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "211.8",
+
+"CCTV_ID": "cctv00003483",
+
+"CCTV_SEQ": "95",
+
+"CAMERA_AREA": "추풍령휴게소",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3483.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3483image/ch00003483_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "213.8",
+
+"CCTV_ID": "cctv00003268",
+
+"CCTV_SEQ": "96",
+
+"CAMERA_AREA": "추풍령정류장",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3268.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3268image/ch00003268_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "216.2",
+
+"CCTV_ID": "cctv00003267",
+
+"CCTV_SEQ": "97",
+
+"CAMERA_AREA": "계룡2교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv3267.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3267image/ch00003267_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "218.1",
+
+"CCTV_ID": "cctv00003266",
+
+"CCTV_SEQ": "98",
+
+"CAMERA_AREA": "덕곡",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3266.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3266image/ch00003266_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "218.5",
+
+"CCTV_ID": "cctv00005175",
+
+"CCTV_SEQ": "99",
+
+"CAMERA_AREA": "황간터널(서울)-1/3",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5175.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5175image/ch00005175_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "218.8",
+
+"CCTV_ID": "cctv00005562",
+
+"CCTV_SEQ": "100",
+
+"CAMERA_AREA": "[서울]황간터널(서울2)",
+
+"HLS_URL": "http://live8.exmobile.hscdn.com/exlive/cctv5562.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5562image/ch00005562_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "219",
+
+"CCTV_ID": "cctv00005176",
+
+"CCTV_SEQ": "101",
+
+"CAMERA_AREA": "황간터널(서울)-3/3",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5176.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5176image/ch00005176_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "추풍령IC",
+
+"CONZONE_ID": "0010CZE230",
+
+"C_S_NODE_NM": "추풍령IC",
+
+"C_E_NODE_NM": "황간IC",
+
+"C_S_NODE_ID": "82",
+
+"C_E_NODE_ID": "96",
+
+"ROUTE_CONF_SERIALNUM": "29",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.08",
+
+"BUS_YN": "N",
+
+"SPEED": "94.66",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "220.1",
+
+"CCTV_ID": "cctv00003265",
+
+"CCTV_SEQ": "102",
+
+"CAMERA_AREA": "황간터널",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3265.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3265image/ch00003265_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "222.4",
+
+"CCTV_ID": "cctv00003264",
+
+"CCTV_SEQ": "103",
+
+"CAMERA_AREA": "황간",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3264.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3264image/ch00003264_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "223.5",
+
+"CCTV_ID": "cctv00003263",
+
+"CCTV_SEQ": "104",
+
+"CAMERA_AREA": "노근육교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3263.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3263image/ch00003263_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "224.5",
+
+"CCTV_ID": "cctv00005619",
+
+"CCTV_SEQ": "105",
+
+"CAMERA_AREA": "노근철교",
+
+"HLS_URL": "http://live10.exmobile.hscdn.com/exlive/cctv5619.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5619image/ch00005619_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "225.8",
+
+"CCTV_ID": "cctv00003262",
+
+"CCTV_SEQ": "106",
+
+"CAMERA_AREA": "노근2교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv3262.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3262image/ch00003262_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "227.3",
+
+"CCTV_ID": "cctv00003261",
+
+"CCTV_SEQ": "107",
+
+"CAMERA_AREA": "회포",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3261.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3261image/ch00003261_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "228.9",
+
+"CCTV_ID": "cctv00003260",
+
+"CCTV_SEQ": "108",
+
+"CAMERA_AREA": "황간휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3260.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3260image/ch00003260_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "황간IC",
+
+"CONZONE_ID": "0010CZE240",
+
+"C_S_NODE_NM": "황간IC",
+
+"C_E_NODE_NM": "영동IC",
+
+"C_S_NODE_ID": "96",
+
+"C_E_NODE_ID": "95",
+
+"ROUTE_CONF_SERIALNUM": "30",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "9.89",
+
+"BUS_YN": "N",
+
+"SPEED": "96.55",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "231.5",
+
+"CCTV_ID": "cctv00003259",
+
+"CCTV_SEQ": "109",
+
+"CAMERA_AREA": "용산_경부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3259.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3259image/ch00003259_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "232.4",
+
+"CCTV_ID": "cctv00003258",
+
+"CCTV_SEQ": "110",
+
+"CAMERA_AREA": "영동",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3258.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3258image/ch00003258_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "235.4",
+
+"CCTV_ID": "cctv00003257",
+
+"CCTV_SEQ": "111",
+
+"CAMERA_AREA": "한곡1교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv3257.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3257image/ch00003257_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "236.5",
+
+"CCTV_ID": "cctv00003256",
+
+"CCTV_SEQ": "112",
+
+"CAMERA_AREA": "금곡정류장",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3256.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3256image/ch00003256_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "237.1",
+
+"CCTV_ID": "cctv00005177",
+
+"CCTV_SEQ": "113",
+
+"CAMERA_AREA": "영동3터널(서울외부1)",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5177.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5177image/ch00005177_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "239.8",
+
+"CCTV_ID": "cctv00003255",
+
+"CCTV_SEQ": "114",
+
+"CAMERA_AREA": "영동2터널(부산외부1)",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3255.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3255image/ch00003255_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "240.7",
+
+"CCTV_ID": "cctv00000917",
+
+"CCTV_SEQ": "115",
+
+"CAMERA_AREA": "청성",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv0917.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0917image/ch00000917_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "242.5",
+
+"CCTV_ID": "cctv00005179",
+
+"CCTV_SEQ": "116",
+
+"CAMERA_AREA": "영동1터널(서울)-외부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5179.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5179image/ch00005179_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "243.9",
+
+"CCTV_ID": "cctv00005180",
+
+"CCTV_SEQ": "117",
+
+"CAMERA_AREA": "옥천4터널(서울)-2/4",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5180.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5180image/ch00005180_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "영동IC",
+
+"CONZONE_ID": "0010CZE250",
+
+"C_S_NODE_NM": "영동IC",
+
+"C_E_NODE_NM": "금강IC",
+
+"C_S_NODE_ID": "95",
+
+"C_E_NODE_ID": "463",
+
+"ROUTE_CONF_SERIALNUM": "31",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "16.04",
+
+"BUS_YN": "N",
+
+"SPEED": "100",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "246.6",
+
+"CCTV_ID": "cctv00005182",
+
+"CCTV_SEQ": "118",
+
+"CAMERA_AREA": "옥천3터널(서울)-외부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5182.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5182image/ch00005182_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "248.8",
+
+"CCTV_ID": "cctv00003254",
+
+"CCTV_SEQ": "119",
+
+"CAMERA_AREA": "금강",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3254.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3254image/ch00003254_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "249.6",
+
+"CCTV_ID": "cctv00005186",
+
+"CCTV_SEQ": "120",
+
+"CAMERA_AREA": "옥천1터널(서울)-1/3",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5186.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5186image/ch00005186_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "250.1",
+
+"CCTV_ID": "cctv00005564",
+
+"CCTV_SEQ": "121",
+
+"CAMERA_AREA": "[서울]옥천1터널(서울2)",
+
+"HLS_URL": "http://live8.exmobile.hscdn.com/exlive/cctv5564.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5564image/ch00005564_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "251.8",
+
+"CCTV_ID": "cctv00003253",
+
+"CCTV_SEQ": "122",
+
+"CAMERA_AREA": "동이정류장",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3253.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3253image/ch00003253_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "252.85",
+
+"CCTV_ID": "cctv00005986",
+
+"CCTV_SEQ": "123",
+
+"CAMERA_AREA": "동이",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5986.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5986image/ch00005986_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "254",
+
+"CCTV_ID": "cctv00005987",
+
+"CCTV_SEQ": "124",
+
+"CAMERA_AREA": "소도교",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5987.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5987image/ch00005987_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "255.2",
+
+"CCTV_ID": "cctv00003252",
+
+"CCTV_SEQ": "125",
+
+"CAMERA_AREA": "옥천휴게소(부산)",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3252.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3252image/ch00003252_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "금강IC",
+
+"CONZONE_ID": "0010CZE260",
+
+"C_S_NODE_NM": "금강IC",
+
+"C_E_NODE_NM": "옥천IC",
+
+"C_S_NODE_ID": "463",
+
+"C_E_NODE_ID": "21",
+
+"ROUTE_CONF_SERIALNUM": "32",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.4",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "258",
+
+"CCTV_ID": "cctv00003251",
+
+"CCTV_SEQ": "126",
+
+"CAMERA_AREA": "삼양터널",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3251.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3251image/ch00003251_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥천IC",
+
+"CONZONE_ID": "0010CZE270",
+
+"C_S_NODE_NM": "옥천IC",
+
+"C_E_NODE_NM": "비룡JC",
+
+"C_S_NODE_ID": "21",
+
+"C_E_NODE_ID": "108",
+
+"ROUTE_CONF_SERIALNUM": "33",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.67",
+
+"BUS_YN": "N",
+
+"SPEED": "99.15",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "260.60000000000002",
+
+"CCTV_ID": "cctv00003250",
+
+"CCTV_SEQ": "127",
+
+"CAMERA_AREA": "옥천",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3250.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3250image/ch00003250_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥천IC",
+
+"CONZONE_ID": "0010CZE270",
+
+"C_S_NODE_NM": "옥천IC",
+
+"C_E_NODE_NM": "비룡JC",
+
+"C_S_NODE_ID": "21",
+
+"C_E_NODE_ID": "108",
+
+"ROUTE_CONF_SERIALNUM": "33",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.67",
+
+"BUS_YN": "N",
+
+"SPEED": "99.15",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "263.39999999999998",
+
+"CCTV_ID": "cctv00003249",
+
+"CCTV_SEQ": "128",
+
+"CAMERA_AREA": "증약터널",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3249.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3249image/ch00003249_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥천IC",
+
+"CONZONE_ID": "0010CZE270",
+
+"C_S_NODE_NM": "옥천IC",
+
+"C_E_NODE_NM": "비룡JC",
+
+"C_S_NODE_ID": "21",
+
+"C_E_NODE_ID": "108",
+
+"ROUTE_CONF_SERIALNUM": "33",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.67",
+
+"BUS_YN": "N",
+
+"SPEED": "99.15",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "263.89999999999998",
+
+"CCTV_ID": "cctv00005187",
+
+"CCTV_SEQ": "129",
+
+"CAMERA_AREA": "증약터널(서울)-외부",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5187.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5187image/ch00005187_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥천IC",
+
+"CONZONE_ID": "0010CZE270",
+
+"C_S_NODE_NM": "옥천IC",
+
+"C_E_NODE_NM": "비룡JC",
+
+"C_S_NODE_ID": "21",
+
+"C_E_NODE_ID": "108",
+
+"ROUTE_CONF_SERIALNUM": "33",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.67",
+
+"BUS_YN": "N",
+
+"SPEED": "99.15",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "264.8",
+
+"CCTV_ID": "cctv00005188",
+
+"CCTV_SEQ": "130",
+
+"CAMERA_AREA": "증약터널(서울)-2/3",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5188.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5188image/ch00005188_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥천IC",
+
+"CONZONE_ID": "0010CZE270",
+
+"C_S_NODE_NM": "옥천IC",
+
+"C_E_NODE_NM": "비룡JC",
+
+"C_S_NODE_ID": "21",
+
+"C_E_NODE_ID": "108",
+
+"ROUTE_CONF_SERIALNUM": "33",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.67",
+
+"BUS_YN": "N",
+
+"SPEED": "99.15",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "266.89999999999998",
+
+"CCTV_ID": "cctv00003248",
+
+"CCTV_SEQ": "131",
+
+"CAMERA_AREA": "신상2교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3248.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3248image/ch00003248_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "비룡JC",
+
+"CONZONE_ID": "0010CZE280",
+
+"C_S_NODE_NM": "비룡JC",
+
+"C_E_NODE_NM": "대전IC",
+
+"C_S_NODE_ID": "108",
+
+"C_E_NODE_ID": "100",
+
+"ROUTE_CONF_SERIALNUM": "34",
+
+"ROUTE_NO_LIST": "351",
+
+"LINK_LEN_KM": "4.0599999999999996",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "268.43",
+
+"CCTV_ID": "cctv00003242",
+
+"CCTV_SEQ": "132",
+
+"CAMERA_AREA": "비룡분기점",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3242.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3242image/ch00003242_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "비룡JC",
+
+"CONZONE_ID": "0010CZE280",
+
+"C_S_NODE_NM": "비룡JC",
+
+"C_E_NODE_NM": "대전IC",
+
+"C_S_NODE_ID": "108",
+
+"C_E_NODE_ID": "100",
+
+"ROUTE_CONF_SERIALNUM": "34",
+
+"ROUTE_NO_LIST": "351",
+
+"LINK_LEN_KM": "4.0599999999999996",
+
+"BUS_YN": "N",
+
+"SPEED": "94.62",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "272.18",
+
+"CCTV_ID": "cctv00003241",
+
+"CCTV_SEQ": "133",
+
+"CAMERA_AREA": "대전",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3241.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3241image/ch00003241_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "대전IC",
+
+"CONZONE_ID": "0010CZE290",
+
+"C_S_NODE_NM": "대전IC",
+
+"C_E_NODE_NM": "회덕JC",
+
+"C_S_NODE_ID": "100",
+
+"C_E_NODE_ID": "102",
+
+"ROUTE_CONF_SERIALNUM": "35",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.45",
+
+"BUS_YN": "N",
+
+"SPEED": "95.97",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "273.35000000000002",
+
+"CCTV_ID": "cctv00000874",
+
+"CCTV_SEQ": "134",
+
+"CAMERA_AREA": "송촌_경부",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0874.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0874image/ch00000874_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "대전IC",
+
+"CONZONE_ID": "0010CZE290",
+
+"C_S_NODE_NM": "대전IC",
+
+"C_E_NODE_NM": "회덕JC",
+
+"C_S_NODE_ID": "100",
+
+"C_E_NODE_ID": "102",
+
+"ROUTE_CONF_SERIALNUM": "35",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.45",
+
+"BUS_YN": "N",
+
+"SPEED": "95.97",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "274.51",
+
+"CCTV_ID": "cctv00003240",
+
+"CCTV_SEQ": "135",
+
+"CAMERA_AREA": "계족",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3240.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3240image/ch00003240_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "대전IC",
+
+"CONZONE_ID": "0010CZE290",
+
+"C_S_NODE_NM": "대전IC",
+
+"C_E_NODE_NM": "회덕JC",
+
+"C_S_NODE_ID": "100",
+
+"C_E_NODE_ID": "102",
+
+"ROUTE_CONF_SERIALNUM": "35",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.45",
+
+"BUS_YN": "N",
+
+"SPEED": "95.97",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "276.08",
+
+"CCTV_ID": "cctv00003239",
+
+"CCTV_SEQ": "136",
+
+"CAMERA_AREA": "연축육교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3239.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3239image/ch00003239_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "대전IC",
+
+"CONZONE_ID": "0010CZE290",
+
+"C_S_NODE_NM": "대전IC",
+
+"C_E_NODE_NM": "회덕JC",
+
+"C_S_NODE_ID": "100",
+
+"C_E_NODE_ID": "102",
+
+"ROUTE_CONF_SERIALNUM": "35",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.45",
+
+"BUS_YN": "N",
+
+"SPEED": "95.97",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "276.60000000000002",
+
+"CCTV_ID": "cctv00000873",
+
+"CCTV_SEQ": "137",
+
+"CAMERA_AREA": "신대철교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0873.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0873image/ch00000873_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "회덕JC",
+
+"CONZONE_ID": "0010CZE300",
+
+"C_S_NODE_NM": "회덕JC",
+
+"C_E_NODE_NM": "신탄진IC",
+
+"C_S_NODE_ID": "102",
+
+"C_E_NODE_ID": "104",
+
+"ROUTE_CONF_SERIALNUM": "36",
+
+"ROUTE_NO_LIST": "2510",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "N",
+
+"SPEED": "95.26",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "278.39999999999998",
+
+"CCTV_ID": "cctv00003238",
+
+"CCTV_SEQ": "138",
+
+"CAMERA_AREA": "회덕분기점",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3238.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3238image/ch00003238_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "회덕JC",
+
+"CONZONE_ID": "0010CZE300",
+
+"C_S_NODE_NM": "회덕JC",
+
+"C_E_NODE_NM": "신탄진IC",
+
+"C_S_NODE_ID": "102",
+
+"C_E_NODE_ID": "104",
+
+"ROUTE_CONF_SERIALNUM": "36",
+
+"ROUTE_NO_LIST": "2510",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "N",
+
+"SPEED": "95.26",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "279.39999999999998",
+
+"CCTV_ID": "cctv00005976",
+
+"CCTV_SEQ": "139",
+
+"CAMERA_AREA": "회덕분기점2",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5976.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5976image/ch00005976_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "회덕JC",
+
+"CONZONE_ID": "0010CZE300",
+
+"C_S_NODE_NM": "회덕JC",
+
+"C_E_NODE_NM": "신탄진IC",
+
+"C_S_NODE_ID": "102",
+
+"C_E_NODE_ID": "104",
+
+"ROUTE_CONF_SERIALNUM": "36",
+
+"ROUTE_NO_LIST": "2510",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "N",
+
+"SPEED": "95.26",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "280.39999999999998",
+
+"CCTV_ID": "cctv00003237",
+
+"CCTV_SEQ": "140",
+
+"CAMERA_AREA": "신탄진휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3237.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3237image/ch00003237_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "회덕JC",
+
+"CONZONE_ID": "0010CZE300",
+
+"C_S_NODE_NM": "회덕JC",
+
+"C_E_NODE_NM": "신탄진IC",
+
+"C_S_NODE_ID": "102",
+
+"C_E_NODE_ID": "104",
+
+"ROUTE_CONF_SERIALNUM": "36",
+
+"ROUTE_NO_LIST": "2510",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "N",
+
+"SPEED": "95.26",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "282.14",
+
+"CCTV_ID": "cctv00003236",
+
+"CCTV_SEQ": "141",
+
+"CAMERA_AREA": "신탄진",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3236.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3236image/ch00003236_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "284",
+
+"CCTV_ID": "cctv00000872",
+
+"CCTV_SEQ": "142",
+
+"CAMERA_AREA": "양지_경부",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0872.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0872image/ch00000872_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "284.95999999999998",
+
+"CCTV_ID": "cctv00003235",
+
+"CCTV_SEQ": "143",
+
+"CAMERA_AREA": "금강1교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3235.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3235image/ch00003235_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "287.32",
+
+"CCTV_ID": "cctv00003234",
+
+"CCTV_SEQ": "144",
+
+"CAMERA_AREA": "선동",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3234.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3234image/ch00003234_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "288.86",
+
+"CCTV_ID": "cctv00003233",
+
+"CCTV_SEQ": "145",
+
+"CAMERA_AREA": "죽암휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3233.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3233image/ch00003233_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "290.8",
+
+"CCTV_ID": "cctv00005977",
+
+"CCTV_SEQ": "146",
+
+"CAMERA_AREA": "죽전교",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5977.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5977image/ch00005977_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신탄진IC",
+
+"CONZONE_ID": "0010CZE310",
+
+"C_S_NODE_NM": "신탄진IC",
+
+"C_E_NODE_NM": "남청주IC",
+
+"C_S_NODE_ID": "104",
+
+"C_E_NODE_ID": "68",
+
+"ROUTE_CONF_SERIALNUM": "37",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "10.07",
+
+"BUS_YN": "N",
+
+"SPEED": "96.34",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "291.7",
+
+"CCTV_ID": "cctv00003232",
+
+"CCTV_SEQ": "147",
+
+"CAMERA_AREA": "현도",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3232.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3232image/ch00003232_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남청주IC",
+
+"CONZONE_ID": "0010CZE320",
+
+"C_S_NODE_NM": "남청주IC",
+
+"C_E_NODE_NM": "청주JC",
+
+"C_S_NODE_ID": "68",
+
+"C_E_NODE_ID": "362",
+
+"ROUTE_CONF_SERIALNUM": "38",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.55",
+
+"BUS_YN": "N",
+
+"SPEED": "92.98",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "293.08",
+
+"CCTV_ID": "cctv00003231",
+
+"CCTV_SEQ": "148",
+
+"CAMERA_AREA": "남청주",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3231.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3231image/ch00003231_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남청주IC",
+
+"CONZONE_ID": "0010CZE320",
+
+"C_S_NODE_NM": "남청주IC",
+
+"C_E_NODE_NM": "청주JC",
+
+"C_S_NODE_ID": "68",
+
+"C_E_NODE_ID": "362",
+
+"ROUTE_CONF_SERIALNUM": "38",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.55",
+
+"BUS_YN": "N",
+
+"SPEED": "92.98",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "295.14999999999998",
+
+"CCTV_ID": "cctv00003230",
+
+"CCTV_SEQ": "149",
+
+"CAMERA_AREA": "남이육교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3230.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3230image/ch00003230_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남청주IC",
+
+"CONZONE_ID": "0010CZE320",
+
+"C_S_NODE_NM": "남청주IC",
+
+"C_E_NODE_NM": "청주JC",
+
+"C_S_NODE_ID": "68",
+
+"C_E_NODE_ID": "362",
+
+"ROUTE_CONF_SERIALNUM": "38",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.55",
+
+"BUS_YN": "N",
+
+"SPEED": "92.98",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "296.10000000000002",
+
+"CCTV_ID": "cctv00005978",
+
+"CCTV_SEQ": "150",
+
+"CAMERA_AREA": "청주분기점",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5978.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5978image/ch00005978_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "청주JC",
+
+"CONZONE_ID": "0010CZE330",
+
+"C_S_NODE_NM": "청주JC",
+
+"C_E_NODE_NM": "남이JC",
+
+"C_S_NODE_ID": "362",
+
+"C_E_NODE_ID": "67",
+
+"ROUTE_CONF_SERIALNUM": "39",
+
+"ROUTE_NO_LIST": "300",
+
+"LINK_LEN_KM": "3.89",
+
+"BUS_YN": "N",
+
+"SPEED": "93.13",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "297.75",
+
+"CCTV_ID": "cctv00003229",
+
+"CCTV_SEQ": "151",
+
+"CAMERA_AREA": "남이고개",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3229.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3229image/ch00003229_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "청주JC",
+
+"CONZONE_ID": "0010CZE330",
+
+"C_S_NODE_NM": "청주JC",
+
+"C_E_NODE_NM": "남이JC",
+
+"C_S_NODE_ID": "362",
+
+"C_E_NODE_ID": "67",
+
+"ROUTE_CONF_SERIALNUM": "39",
+
+"ROUTE_NO_LIST": "300",
+
+"LINK_LEN_KM": "3.89",
+
+"BUS_YN": "N",
+
+"SPEED": "93.13",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "298.7",
+
+"CCTV_ID": "cctv00005979",
+
+"CCTV_SEQ": "152",
+
+"CAMERA_AREA": "석실육교",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5979.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5979image/ch00005979_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "청주JC",
+
+"CONZONE_ID": "0010CZE330",
+
+"C_S_NODE_NM": "청주JC",
+
+"C_E_NODE_NM": "남이JC",
+
+"C_S_NODE_ID": "362",
+
+"C_E_NODE_ID": "67",
+
+"ROUTE_CONF_SERIALNUM": "39",
+
+"ROUTE_NO_LIST": "300",
+
+"LINK_LEN_KM": "3.89",
+
+"BUS_YN": "N",
+
+"SPEED": "93.13",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "300",
+
+"CCTV_ID": "cctv00003278",
+
+"CCTV_SEQ": "153",
+
+"CAMERA_AREA": "남이분기점",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3278.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3278image/ch00003278_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남이JC",
+
+"CONZONE_ID": "0010CZE340",
+
+"C_S_NODE_NM": "남이JC",
+
+"C_E_NODE_NM": "청주IC",
+
+"C_S_NODE_ID": "67",
+
+"C_E_NODE_ID": "66",
+
+"ROUTE_CONF_SERIALNUM": "40",
+
+"ROUTE_NO_LIST": "352",
+
+"LINK_LEN_KM": "4.62",
+
+"BUS_YN": "N",
+
+"SPEED": "96.69",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "301",
+
+"CCTV_ID": "cctv00005980",
+
+"CCTV_SEQ": "154",
+
+"CAMERA_AREA": "남이분기점2",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5980.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5980image/ch00005980_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남이JC",
+
+"CONZONE_ID": "0010CZE340",
+
+"C_S_NODE_NM": "남이JC",
+
+"C_E_NODE_NM": "청주IC",
+
+"C_S_NODE_ID": "67",
+
+"C_E_NODE_ID": "66",
+
+"ROUTE_CONF_SERIALNUM": "40",
+
+"ROUTE_NO_LIST": "352",
+
+"LINK_LEN_KM": "4.62",
+
+"BUS_YN": "N",
+
+"SPEED": "96.69",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "301.8",
+
+"CCTV_ID": "cctv00003228",
+
+"CCTV_SEQ": "155",
+
+"CAMERA_AREA": "수의",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3228.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3228image/ch00003228_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남이JC",
+
+"CONZONE_ID": "0010CZE340",
+
+"C_S_NODE_NM": "남이JC",
+
+"C_E_NODE_NM": "청주IC",
+
+"C_S_NODE_ID": "67",
+
+"C_E_NODE_ID": "66",
+
+"ROUTE_CONF_SERIALNUM": "40",
+
+"ROUTE_NO_LIST": "352",
+
+"LINK_LEN_KM": "4.62",
+
+"BUS_YN": "N",
+
+"SPEED": "96.69",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "303.2",
+
+"CCTV_ID": "cctv00003976",
+
+"CCTV_SEQ": "156",
+
+"CAMERA_AREA": "강서",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3976.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3976image/ch00003976_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "남이JC",
+
+"CONZONE_ID": "0010CZE340",
+
+"C_S_NODE_NM": "남이JC",
+
+"C_E_NODE_NM": "청주IC",
+
+"C_S_NODE_ID": "67",
+
+"C_E_NODE_ID": "66",
+
+"ROUTE_CONF_SERIALNUM": "40",
+
+"ROUTE_NO_LIST": "352",
+
+"LINK_LEN_KM": "4.62",
+
+"BUS_YN": "N",
+
+"SPEED": "96.69",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "305",
+
+"CCTV_ID": "cctv00003227",
+
+"CCTV_SEQ": "157",
+
+"CAMERA_AREA": "청주",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3227.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3227image/ch00003227_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "청주IC",
+
+"CONZONE_ID": "0010CZE350",
+
+"C_S_NODE_NM": "청주IC",
+
+"C_E_NODE_NM": "옥산IC",
+
+"C_S_NODE_ID": "66",
+
+"C_E_NODE_ID": "649",
+
+"ROUTE_CONF_SERIALNUM": "41",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.49",
+
+"BUS_YN": "N",
+
+"SPEED": "94.63",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "307.60000000000002",
+
+"CCTV_ID": "cctv00003221",
+
+"CCTV_SEQ": "158",
+
+"CAMERA_AREA": "미호천교",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3221.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3221image/ch00003221_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "309.2",
+
+"CCTV_ID": "cctv00003226",
+
+"CCTV_SEQ": "159",
+
+"CAMERA_AREA": "옥산휴게소",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv3226.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3226image/ch00003226_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "311.7",
+
+"CCTV_ID": "cctv00003225",
+
+"CCTV_SEQ": "160",
+
+"CAMERA_AREA": "몽단이고개",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv3225.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3225image/ch00003225_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "312.89999999999998",
+
+"CCTV_ID": "cctv00003224",
+
+"CCTV_SEQ": "161",
+
+"CAMERA_AREA": "천수천교",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv3224.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3224image/ch00003224_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "314.89999999999998",
+
+"CCTV_ID": "cctv00003223",
+
+"CCTV_SEQ": "162",
+
+"CAMERA_AREA": "수락",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3223.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3223image/ch00003223_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "316.39999999999998",
+
+"CCTV_ID": "cctv00002301",
+
+"CCTV_SEQ": "163",
+
+"CAMERA_AREA": "청주휴게소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv2301.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2301image/ch00002301_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "319.89999999999998",
+
+"CCTV_ID": "cctv00000189",
+
+"CCTV_SEQ": "164",
+
+"CAMERA_AREA": "병천2교",
+
+"HLS_URL": "http://live9.exmobile.hscdn.com/exlive/cctv0189.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0189image/ch00000189_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "322.39999999999998",
+
+"CCTV_ID": "cctv00003220",
+
+"CCTV_SEQ": "165",
+
+"CAMERA_AREA": "속창육교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3220.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3220image/ch00003220_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "324.39999999999998",
+
+"CCTV_ID": "cctv00000188",
+
+"CCTV_SEQ": "166",
+
+"CAMERA_AREA": "천안휴게소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0188.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0188image/ch00000188_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "327",
+
+"CCTV_ID": "cctv00005544",
+
+"CCTV_SEQ": "167",
+
+"CAMERA_AREA": "성남",
+
+"HLS_URL": "http://live8.exmobile.hscdn.com/exlive/cctv5544.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5544image/ch00005544_20171016.192700.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "옥산IC",
+
+"CONZONE_ID": "0010CZE355",
+
+"C_S_NODE_NM": "옥산IC",
+
+"C_E_NODE_NM": "목천IC",
+
+"C_S_NODE_ID": "649",
+
+"C_E_NODE_ID": "49",
+
+"ROUTE_CONF_SERIALNUM": "42",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "21.31",
+
+"BUS_YN": "N",
+
+"SPEED": "92.64",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "329.9",
+
+"CCTV_ID": "cctv00000187",
+
+"CCTV_SEQ": "168",
+
+"CAMERA_AREA": "목천",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0187.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0187image/ch00000187_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "목천IC",
+
+"CONZONE_ID": "0010CZE360",
+
+"C_S_NODE_NM": "목천IC",
+
+"C_E_NODE_NM": "천안JC",
+
+"C_S_NODE_ID": "49",
+
+"C_E_NODE_ID": "50",
+
+"ROUTE_CONF_SERIALNUM": "43",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.53",
+
+"BUS_YN": "N",
+
+"SPEED": "97.96",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "331.9",
+
+"CCTV_ID": "cctv00003848",
+
+"CCTV_SEQ": "169",
+
+"CAMERA_AREA": "응원고개",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3848.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3848image/ch00003848_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "목천IC",
+
+"CONZONE_ID": "0010CZE360",
+
+"C_S_NODE_NM": "목천IC",
+
+"C_E_NODE_NM": "천안JC",
+
+"C_S_NODE_ID": "49",
+
+"C_E_NODE_ID": "50",
+
+"ROUTE_CONF_SERIALNUM": "43",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.53",
+
+"BUS_YN": "N",
+
+"SPEED": "97.96",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "333.3",
+
+"CCTV_ID": "cctv00005998",
+
+"CCTV_SEQ": "170",
+
+"CAMERA_AREA": "응원",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5998.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5998image/ch00005998_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안JC",
+
+"CONZONE_ID": "0010CZE370",
+
+"C_S_NODE_NM": "천안JC",
+
+"C_E_NODE_NM": "천안IC",
+
+"C_S_NODE_ID": "50",
+
+"C_E_NODE_ID": "52",
+
+"ROUTE_CONF_SERIALNUM": "44",
+
+"ROUTE_NO_LIST": "252",
+
+"LINK_LEN_KM": "6.7",
+
+"BUS_YN": "N",
+
+"SPEED": "94.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "334",
+
+"CCTV_ID": "cctv00000186",
+
+"CCTV_SEQ": "171",
+
+"CAMERA_AREA": "천안분기점",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0186.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0186image/ch00000186_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안JC",
+
+"CONZONE_ID": "0010CZE370",
+
+"C_S_NODE_NM": "천안JC",
+
+"C_E_NODE_NM": "천안IC",
+
+"C_S_NODE_ID": "50",
+
+"C_E_NODE_ID": "52",
+
+"ROUTE_CONF_SERIALNUM": "44",
+
+"ROUTE_NO_LIST": "252",
+
+"LINK_LEN_KM": "6.7",
+
+"BUS_YN": "N",
+
+"SPEED": "94.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "335.5",
+
+"CCTV_ID": "cctv00000185",
+
+"CCTV_SEQ": "172",
+
+"CAMERA_AREA": "천삼휴게소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0185.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0185image/ch00000185_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안JC",
+
+"CONZONE_ID": "0010CZE370",
+
+"C_S_NODE_NM": "천안JC",
+
+"C_E_NODE_NM": "천안IC",
+
+"C_S_NODE_ID": "50",
+
+"C_E_NODE_ID": "52",
+
+"ROUTE_CONF_SERIALNUM": "44",
+
+"ROUTE_NO_LIST": "252",
+
+"LINK_LEN_KM": "6.7",
+
+"BUS_YN": "N",
+
+"SPEED": "94.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "337.7",
+
+"CCTV_ID": "cctv00001132",
+
+"CCTV_SEQ": "173",
+
+"CAMERA_AREA": "구성육교",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv1132.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv1132image/ch00001132_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안JC",
+
+"CONZONE_ID": "0010CZE370",
+
+"C_S_NODE_NM": "천안JC",
+
+"C_E_NODE_NM": "천안IC",
+
+"C_S_NODE_ID": "50",
+
+"C_E_NODE_ID": "52",
+
+"ROUTE_CONF_SERIALNUM": "44",
+
+"ROUTE_NO_LIST": "252",
+
+"LINK_LEN_KM": "6.7",
+
+"BUS_YN": "N",
+
+"SPEED": "94.89",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "339.4",
+
+"CCTV_ID": "cctv00005999",
+
+"CCTV_SEQ": "174",
+
+"CAMERA_AREA": "신부",
+
+"HLS_URL": "http://live12.exmobile.hscdn.com/exlive/cctv5999.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5999image/ch00005999_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안IC",
+
+"CONZONE_ID": "0010CZE380",
+
+"C_S_NODE_NM": "천안IC",
+
+"C_E_NODE_NM": "북천안IC",
+
+"C_S_NODE_ID": "52",
+
+"C_E_NODE_ID": "562",
+
+"ROUTE_CONF_SERIALNUM": "45",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.36",
+
+"BUS_YN": "N",
+
+"SPEED": "97.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "340.2",
+
+"CCTV_ID": "cctv00000184",
+
+"CCTV_SEQ": "175",
+
+"CAMERA_AREA": "천안",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0184.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0184image/ch00000184_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안IC",
+
+"CONZONE_ID": "0010CZE380",
+
+"C_S_NODE_NM": "천안IC",
+
+"C_E_NODE_NM": "북천안IC",
+
+"C_S_NODE_ID": "52",
+
+"C_E_NODE_ID": "562",
+
+"ROUTE_CONF_SERIALNUM": "45",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.36",
+
+"BUS_YN": "N",
+
+"SPEED": "97.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "342.3",
+
+"CCTV_ID": "cctv00003105",
+
+"CCTV_SEQ": "176",
+
+"CAMERA_AREA": "안서철육교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3105.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3105image/ch00003105_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안IC",
+
+"CONZONE_ID": "0010CZE380",
+
+"C_S_NODE_NM": "천안IC",
+
+"C_E_NODE_NM": "북천안IC",
+
+"C_S_NODE_ID": "52",
+
+"C_E_NODE_ID": "562",
+
+"ROUTE_CONF_SERIALNUM": "45",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.36",
+
+"BUS_YN": "N",
+
+"SPEED": "97.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "344.4",
+
+"CCTV_ID": "cctv00000183",
+
+"CCTV_SEQ": "177",
+
+"CAMERA_AREA": "망향휴게소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0183.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0183image/ch00000183_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안IC",
+
+"CONZONE_ID": "0010CZE380",
+
+"C_S_NODE_NM": "천안IC",
+
+"C_E_NODE_NM": "북천안IC",
+
+"C_S_NODE_ID": "52",
+
+"C_E_NODE_ID": "562",
+
+"ROUTE_CONF_SERIALNUM": "45",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.36",
+
+"BUS_YN": "N",
+
+"SPEED": "97.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "346.67",
+
+"CCTV_ID": "cctv00003104",
+
+"CCTV_SEQ": "178",
+
+"CAMERA_AREA": "문덕육교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3104.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3104image/ch00003104_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "천안IC",
+
+"CONZONE_ID": "0010CZE380",
+
+"C_S_NODE_NM": "천안IC",
+
+"C_E_NODE_NM": "북천안IC",
+
+"C_S_NODE_ID": "52",
+
+"C_E_NODE_ID": "562",
+
+"ROUTE_CONF_SERIALNUM": "45",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "8.36",
+
+"BUS_YN": "N",
+
+"SPEED": "97.19",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "348.35",
+
+"CCTV_ID": "cctv00005126",
+
+"CCTV_SEQ": "179",
+
+"CAMERA_AREA": "북천안",
+
+"HLS_URL": "http://live6.exmobile.hscdn.com/exlive/cctv5126.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5126image/ch00005126_20171016.192700.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "350.1",
+
+"CCTV_ID": "cctv00000182",
+
+"CCTV_SEQ": "180",
+
+"CAMERA_AREA": "성환활주로",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0182.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0182image/ch00000182_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "351.63",
+
+"CCTV_ID": "cctv00003981",
+
+"CCTV_SEQ": "181",
+
+"CAMERA_AREA": "입장",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3981.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3981image/ch00003981_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "353.3",
+
+"CCTV_ID": "cctv00000181",
+
+"CCTV_SEQ": "182",
+
+"CAMERA_AREA": "입장휴게소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0181.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0181image/ch00000181_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "355.4",
+
+"CCTV_ID": "cctv00003102",
+
+"CCTV_SEQ": "183",
+
+"CAMERA_AREA": "연곡",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv3102.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3102image/ch00003102_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "357.5",
+
+"CCTV_ID": "cctv00000981",
+
+"CCTV_SEQ": "184",
+
+"CAMERA_AREA": "안성천교_경부",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0981.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0981image/ch00000981_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "북천안IC",
+
+"CONZONE_ID": "0010CZE385",
+
+"C_S_NODE_NM": "북천안IC",
+
+"C_E_NODE_NM": "안성IC",
+
+"C_S_NODE_ID": "562",
+
+"C_E_NODE_ID": "247",
+
+"ROUTE_CONF_SERIALNUM": "46",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "11.61",
+
+"BUS_YN": "N",
+
+"SPEED": "96.11",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "358.84",
+
+"CCTV_ID": "cctv00003982",
+
+"CCTV_SEQ": "185",
+
+"CAMERA_AREA": "승두교",
+
+"HLS_URL": "http://live5.exmobile.hscdn.com/exlive/cctv3982.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv3982image/ch00003982_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성IC",
+
+"CONZONE_ID": "0010CZE390",
+
+"C_S_NODE_NM": "안성IC",
+
+"C_E_NODE_NM": "안성JC",
+
+"C_S_NODE_ID": "247",
+
+"C_E_NODE_ID": "300",
+
+"ROUTE_CONF_SERIALNUM": "47",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "4.83",
+
+"BUS_YN": "N",
+
+"SPEED": "92.79",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "360.5",
+
+"CCTV_ID": "cctv00000180",
+
+"CCTV_SEQ": "186",
+
+"CAMERA_AREA": "안성",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0180.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0180image/ch00000180_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성IC",
+
+"CONZONE_ID": "0010CZE390",
+
+"C_S_NODE_NM": "안성IC",
+
+"C_E_NODE_NM": "안성JC",
+
+"C_S_NODE_ID": "247",
+
+"C_E_NODE_ID": "300",
+
+"ROUTE_CONF_SERIALNUM": "47",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "4.83",
+
+"BUS_YN": "N",
+
+"SPEED": "92.79",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "361.32",
+
+"CCTV_ID": "cctv00000023",
+
+"CCTV_SEQ": "187",
+
+"CAMERA_AREA": "공도",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0023.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0023image/ch00000023_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성IC",
+
+"CONZONE_ID": "0010CZE390",
+
+"C_S_NODE_NM": "안성IC",
+
+"C_E_NODE_NM": "안성JC",
+
+"C_S_NODE_ID": "247",
+
+"C_E_NODE_ID": "300",
+
+"ROUTE_CONF_SERIALNUM": "47",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "4.83",
+
+"BUS_YN": "N",
+
+"SPEED": "92.79",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "362.58",
+
+"CCTV_ID": "cctv00000036",
+
+"CCTV_SEQ": "188",
+
+"CAMERA_AREA": "안성휴게소(부산)",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0036.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0036image/ch00000036_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "365.1",
+
+"CCTV_ID": "cctv00000035",
+
+"CCTV_SEQ": "189",
+
+"CAMERA_AREA": "안성분기점_경부",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0035.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0035image/ch00000035_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "366.79",
+
+"CCTV_ID": "cctv00000022",
+
+"CCTV_SEQ": "190",
+
+"CAMERA_AREA": "원곡",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0022.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0022image/ch00000022_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "368.33",
+
+"CCTV_ID": "cctv00000034",
+
+"CCTV_SEQ": "191",
+
+"CAMERA_AREA": "안성휴게소(서울)",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0034.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0034image/ch00000034_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "370.37",
+
+"CCTV_ID": "cctv00000039",
+
+"CCTV_SEQ": "192",
+
+"CAMERA_AREA": "남사정류장",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0039.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0039image/ch00000039_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "373.05",
+
+"CCTV_ID": "cctv00000019",
+
+"CCTV_SEQ": "193",
+
+"CAMERA_AREA": "진위천교",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0019.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0019image/ch00000019_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "374",
+
+"CCTV_ID": "cctv00000021",
+
+"CCTV_SEQ": "194",
+
+"CAMERA_AREA": "외동천교",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0021.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0021image/ch00000021_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "375.6",
+
+"CCTV_ID": "cctv00000018",
+
+"CCTV_SEQ": "195",
+
+"CAMERA_AREA": "남사육교",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0018.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0018image/ch00000018_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "376.42",
+
+"CCTV_ID": "cctv00000020",
+
+"CCTV_SEQ": "196",
+
+"CAMERA_AREA": "원동",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0020.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0020image/ch00000020_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "안성JC",
+
+"CONZONE_ID": "0010CZE400",
+
+"C_S_NODE_NM": "안성JC",
+
+"C_E_NODE_NM": "오산IC",
+
+"C_S_NODE_ID": "300",
+
+"C_E_NODE_ID": "244",
+
+"ROUTE_CONF_SERIALNUM": "48",
+
+"ROUTE_NO_LIST": "400",
+
+"LINK_LEN_KM": "13.27",
+
+"BUS_YN": "N",
+
+"SPEED": "97.85",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "377.92",
+
+"CCTV_ID": "cctv00000017",
+
+"CCTV_SEQ": "197",
+
+"CAMERA_AREA": "오산",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0017.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0017image/ch00000017_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "오산IC",
+
+"CONZONE_ID": "0010CZE410",
+
+"C_S_NODE_NM": "오산IC",
+
+"C_E_NODE_NM": "동탄JC",
+
+"C_S_NODE_ID": "244",
+
+"C_E_NODE_ID": "432",
+
+"ROUTE_CONF_SERIALNUM": "49",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.89",
+
+"BUS_YN": "Y",
+
+"SPEED": "89.85",
+
+"SPEED_BUS": "99.36",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "379",
+
+"CCTV_ID": "cctv00000771",
+
+"CCTV_SEQ": "198",
+
+"CAMERA_AREA": "부산동",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0771.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0771image/ch00000771_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "오산IC",
+
+"CONZONE_ID": "0010CZE410",
+
+"C_S_NODE_NM": "오산IC",
+
+"C_E_NODE_NM": "동탄JC",
+
+"C_S_NODE_ID": "244",
+
+"C_E_NODE_ID": "432",
+
+"ROUTE_CONF_SERIALNUM": "49",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.89",
+
+"BUS_YN": "Y",
+
+"SPEED": "89.85",
+
+"SPEED_BUS": "99.36",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "380.16",
+
+"CCTV_ID": "cctv00000038",
+
+"CCTV_SEQ": "199",
+
+"CAMERA_AREA": "동탄1교",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0038.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0038image/ch00000038_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동탄JC",
+
+"CONZONE_ID": "0010CZE420",
+
+"C_S_NODE_NM": "동탄JC",
+
+"C_E_NODE_NM": "기흥동탄IC",
+
+"C_S_NODE_ID": "432",
+
+"C_E_NODE_ID": "462",
+
+"ROUTE_CONF_SERIALNUM": "50",
+
+"ROUTE_NO_LIST": "4000",
+
+"LINK_LEN_KM": "4.3899999999999997",
+
+"BUS_YN": "Y",
+
+"SPEED": "100.07",
+
+"SPEED_BUS": "105.02",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "382.44",
+
+"CCTV_ID": "cctv00000016",
+
+"CCTV_SEQ": "200",
+
+"CAMERA_AREA": "동탄분기점",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0016.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0016image/ch00000016_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동탄JC",
+
+"CONZONE_ID": "0010CZE420",
+
+"C_S_NODE_NM": "동탄JC",
+
+"C_E_NODE_NM": "기흥동탄IC",
+
+"C_S_NODE_ID": "432",
+
+"C_E_NODE_ID": "462",
+
+"ROUTE_CONF_SERIALNUM": "50",
+
+"ROUTE_NO_LIST": "4000",
+
+"LINK_LEN_KM": "4.3899999999999997",
+
+"BUS_YN": "Y",
+
+"SPEED": "100.07",
+
+"SPEED_BUS": "105.02",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "384.54",
+
+"CCTV_ID": "cctv00000015",
+
+"CCTV_SEQ": "201",
+
+"CAMERA_AREA": "동탄",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0015.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0015image/ch00000015_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "동탄JC",
+
+"CONZONE_ID": "0010CZE420",
+
+"C_S_NODE_NM": "동탄JC",
+
+"C_E_NODE_NM": "기흥동탄IC",
+
+"C_S_NODE_ID": "432",
+
+"C_E_NODE_ID": "462",
+
+"ROUTE_CONF_SERIALNUM": "50",
+
+"ROUTE_NO_LIST": "4000",
+
+"LINK_LEN_KM": "4.3899999999999997",
+
+"BUS_YN": "Y",
+
+"SPEED": "100.07",
+
+"SPEED_BUS": "105.02",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "386.26",
+
+"CCTV_ID": "cctv00000033",
+
+"CCTV_SEQ": "202",
+
+"CAMERA_AREA": "기흥동탄",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0033.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0033image/ch00000033_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "기흥동탄IC",
+
+"CONZONE_ID": "0010CZE430",
+
+"C_S_NODE_NM": "기흥동탄IC",
+
+"C_E_NODE_NM": "기흥IC",
+
+"C_S_NODE_ID": "462",
+
+"C_E_NODE_ID": "308",
+
+"ROUTE_CONF_SERIALNUM": "51",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "0.7",
+
+"BUS_YN": "Y",
+
+"SPEED": "99",
+
+"SPEED_BUS": "104.21",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "387",
+
+"CCTV_ID": "cctv00000014",
+
+"CCTV_SEQ": "203",
+
+"CAMERA_AREA": "기흥",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0014.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0014image/ch00000014_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "기흥IC",
+
+"CONZONE_ID": "0010CZE440",
+
+"C_S_NODE_NM": "기흥IC",
+
+"C_E_NODE_NM": "수원신갈IC",
+
+"C_S_NODE_ID": "308",
+
+"C_E_NODE_ID": "305",
+
+"ROUTE_CONF_SERIALNUM": "52",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "Y",
+
+"SPEED": "38.9",
+
+"SPEED_BUS": "85.63",
+
+"TRAFFIC_GRADE": "R",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "388.2",
+
+"CCTV_ID": "cctv00000013",
+
+"CCTV_SEQ": "204",
+
+"CAMERA_AREA": "기흥휴게소(부산)",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0013.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0013image/ch00000013_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "기흥부근(389K)-수원(392K)"
+
+},
+
+{
+
+"NODE_NM": "기흥IC",
+
+"CONZONE_ID": "0010CZE440",
+
+"C_S_NODE_NM": "기흥IC",
+
+"C_E_NODE_NM": "수원신갈IC",
+
+"C_S_NODE_ID": "308",
+
+"C_E_NODE_ID": "305",
+
+"ROUTE_CONF_SERIALNUM": "52",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "Y",
+
+"SPEED": "38.9",
+
+"SPEED_BUS": "85.63",
+
+"TRAFFIC_GRADE": "R",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "390",
+
+"CCTV_ID": "cctv00002401",
+
+"CCTV_SEQ": "205",
+
+"CAMERA_AREA": "공세육교",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv2401.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2401image/ch00002401_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "기흥부근(389K)-수원(392K)"
+
+},
+
+{
+
+"NODE_NM": "기흥IC",
+
+"CONZONE_ID": "0010CZE440",
+
+"C_S_NODE_NM": "기흥IC",
+
+"C_E_NODE_NM": "수원신갈IC",
+
+"C_S_NODE_ID": "308",
+
+"C_E_NODE_ID": "305",
+
+"ROUTE_CONF_SERIALNUM": "52",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "5.09",
+
+"BUS_YN": "Y",
+
+"SPEED": "38.9",
+
+"SPEED_BUS": "85.63",
+
+"TRAFFIC_GRADE": "R",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "392.08",
+
+"CCTV_ID": "cctv00000012",
+
+"CCTV_SEQ": "206",
+
+"CAMERA_AREA": "수원",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0012.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0012image/ch00000012_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "기흥부근(389K)-수원(392K)"
+
+},
+
+{
+
+"NODE_NM": "수원신갈IC",
+
+"CONZONE_ID": "0010CZE450",
+
+"C_S_NODE_NM": "수원신갈IC",
+
+"C_E_NODE_NM": "신갈JC",
+
+"C_S_NODE_ID": "305",
+
+"C_E_NODE_ID": "309",
+
+"ROUTE_CONF_SERIALNUM": "53",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "2.68",
+
+"BUS_YN": "Y",
+
+"SPEED": "71.92",
+
+"SPEED_BUS": "91.56",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "394",
+
+"CCTV_ID": "cctv00005037",
+
+"CCTV_SEQ": "207",
+
+"CAMERA_AREA": "신갈분기점2_경부",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv5037.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5037image/ch00005037_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "신갈분기점(394K)-신갈분기점부근(397K)"
+
+},
+
+{
+
+"NODE_NM": "수원신갈IC",
+
+"CONZONE_ID": "0010CZE450",
+
+"C_S_NODE_NM": "수원신갈IC",
+
+"C_E_NODE_NM": "신갈JC",
+
+"C_S_NODE_ID": "305",
+
+"C_E_NODE_ID": "309",
+
+"ROUTE_CONF_SERIALNUM": "53",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "2.68",
+
+"BUS_YN": "Y",
+
+"SPEED": "71.92",
+
+"SPEED_BUS": "91.56",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "394.49",
+
+"CCTV_ID": "cctv00000011",
+
+"CCTV_SEQ": "208",
+
+"CAMERA_AREA": "신갈분기점_경부",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0011.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0011image/ch00000011_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "신갈분기점(394K)-신갈분기점부근(397K)"
+
+},
+
+{
+
+"NODE_NM": "신갈JC",
+
+"CONZONE_ID": "0010CZE460",
+
+"C_S_NODE_NM": "신갈JC",
+
+"C_E_NODE_NM": "서울TG",
+
+"C_S_NODE_ID": "309",
+
+"C_E_NODE_ID": "280",
+
+"ROUTE_CONF_SERIALNUM": "54",
+
+"ROUTE_NO_LIST": "500",
+
+"LINK_LEN_KM": "8.34",
+
+"BUS_YN": "Y",
+
+"SPEED": "69.22",
+
+"SPEED_BUS": "83.46",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "397.4",
+
+"CCTV_ID": "cctv00000008",
+
+"CCTV_SEQ": "209",
+
+"CAMERA_AREA": "죽전",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0008.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0008image/ch00000008_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신갈JC",
+
+"CONZONE_ID": "0010CZE460",
+
+"C_S_NODE_NM": "신갈JC",
+
+"C_E_NODE_NM": "서울TG",
+
+"C_S_NODE_ID": "309",
+
+"C_E_NODE_ID": "280",
+
+"ROUTE_CONF_SERIALNUM": "54",
+
+"ROUTE_NO_LIST": "500",
+
+"LINK_LEN_KM": "8.34",
+
+"BUS_YN": "Y",
+
+"SPEED": "69.22",
+
+"SPEED_BUS": "83.46",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "399.46",
+
+"CCTV_ID": "cctv00000010",
+
+"CCTV_SEQ": "210",
+
+"CAMERA_AREA": "죽전휴게소(서울)",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0010.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0010image/ch00000010_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신갈JC",
+
+"CONZONE_ID": "0010CZE460",
+
+"C_S_NODE_NM": "신갈JC",
+
+"C_E_NODE_NM": "서울TG",
+
+"C_S_NODE_ID": "309",
+
+"C_E_NODE_ID": "280",
+
+"ROUTE_CONF_SERIALNUM": "54",
+
+"ROUTE_NO_LIST": "500",
+
+"LINK_LEN_KM": "8.34",
+
+"BUS_YN": "Y",
+
+"SPEED": "69.22",
+
+"SPEED_BUS": "83.46",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "401",
+
+"CCTV_ID": "cctv00002402",
+
+"CCTV_SEQ": "211",
+
+"CAMERA_AREA": "금곡교",
+
+"HLS_URL": "http://live2.exmobile.hscdn.com/exlive/cctv2402.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2402image/ch00002402_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "신갈JC",
+
+"CONZONE_ID": "0010CZE460",
+
+"C_S_NODE_NM": "신갈JC",
+
+"C_E_NODE_NM": "서울TG",
+
+"C_S_NODE_ID": "309",
+
+"C_E_NODE_ID": "280",
+
+"ROUTE_CONF_SERIALNUM": "54",
+
+"ROUTE_NO_LIST": "500",
+
+"LINK_LEN_KM": "8.34",
+
+"BUS_YN": "Y",
+
+"SPEED": "69.22",
+
+"SPEED_BUS": "83.46",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "403.2",
+
+"CCTV_ID": "cctv00000009",
+
+"CCTV_SEQ": "212",
+
+"CAMERA_AREA": "서울영업소",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0009.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0009image/ch00000009_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "서울TG",
+
+"CONZONE_ID": "0010CZE470",
+
+"C_S_NODE_NM": "서울TG",
+
+"C_E_NODE_NM": "판교IC",
+
+"C_S_NODE_ID": "280",
+
+"C_E_NODE_ID": "274",
+
+"ROUTE_CONF_SERIALNUM": "55",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.64",
+
+"BUS_YN": "Y",
+
+"SPEED": "73.739999999999995",
+
+"SPEED_BUS": "69.47",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "Y",
+
+"CCTV_MILEPOST": "405.25",
+
+"CCTV_ID": "cctv00002419",
+
+"CCTV_SEQ": "213",
+
+"CAMERA_AREA": "백현",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv2419.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv2419image/ch00002419_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "서울TG",
+
+"CONZONE_ID": "0010CZE470",
+
+"C_S_NODE_NM": "서울TG",
+
+"C_E_NODE_NM": "판교IC",
+
+"C_S_NODE_ID": "280",
+
+"C_E_NODE_ID": "274",
+
+"ROUTE_CONF_SERIALNUM": "55",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.64",
+
+"BUS_YN": "Y",
+
+"SPEED": "73.739999999999995",
+
+"SPEED_BUS": "69.47",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "Y",
+
+"CCTV_MILEPOST": "406.4",
+
+"CCTV_ID": "cctv00000007",
+
+"CCTV_SEQ": "214",
+
+"CAMERA_AREA": "판교",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0007.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0007image/ch00000007_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "서울TG",
+
+"CONZONE_ID": "0010CZE470",
+
+"C_S_NODE_NM": "서울TG",
+
+"C_E_NODE_NM": "판교IC",
+
+"C_S_NODE_ID": "280",
+
+"C_E_NODE_ID": "274",
+
+"ROUTE_CONF_SERIALNUM": "55",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "3.64",
+
+"BUS_YN": "Y",
+
+"SPEED": "73.739999999999995",
+
+"SPEED_BUS": "69.47",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "Y",
+
+"CCTV_MILEPOST": "406.5",
+
+"CCTV_ID": "cctv00005191",
+
+"CCTV_SEQ": "215",
+
+"CAMERA_AREA": "판교1",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5191.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5191image/ch00005191_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "판교IC",
+
+"CONZONE_ID": "0010CZE480",
+
+"C_S_NODE_NM": "판교IC",
+
+"C_E_NODE_NM": "판교JC",
+
+"C_S_NODE_ID": "274",
+
+"C_E_NODE_ID": "273",
+
+"ROUTE_CONF_SERIALNUM": "56",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.1000000000000001",
+
+"BUS_YN": "N",
+
+"SPEED": "76.3",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "407.1",
+
+"CCTV_ID": "cctv00005192",
+
+"CCTV_SEQ": "216",
+
+"CAMERA_AREA": "판교지하차도(서울)",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5192.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5192image/ch00005192_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "판교IC",
+
+"CONZONE_ID": "0010CZE480",
+
+"C_S_NODE_NM": "판교IC",
+
+"C_E_NODE_NM": "판교JC",
+
+"C_S_NODE_ID": "274",
+
+"C_E_NODE_ID": "273",
+
+"ROUTE_CONF_SERIALNUM": "56",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.1000000000000001",
+
+"BUS_YN": "N",
+
+"SPEED": "76.3",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "407.6",
+
+"CCTV_ID": "cctv00005193",
+
+"CCTV_SEQ": "217",
+
+"CAMERA_AREA": "판교3",
+
+"HLS_URL": "http://live3.exmobile.hscdn.com/exlive/cctv5193.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv5193image/ch00005193_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "판교IC",
+
+"CONZONE_ID": "0010CZE480",
+
+"C_S_NODE_NM": "판교IC",
+
+"C_E_NODE_NM": "판교JC",
+
+"C_S_NODE_ID": "274",
+
+"C_E_NODE_ID": "273",
+
+"ROUTE_CONF_SERIALNUM": "56",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.1000000000000001",
+
+"BUS_YN": "N",
+
+"SPEED": "76.3",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "407.8",
+
+"CCTV_ID": "cctv00000006",
+
+"CCTV_SEQ": "218",
+
+"CAMERA_AREA": "판교분기점_경부",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0006.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0006image/ch00000006_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "판교JC",
+
+"CONZONE_ID": "0010CZE490",
+
+"C_S_NODE_NM": "판교JC",
+
+"C_E_NODE_NM": "대왕판교IC",
+
+"C_S_NODE_ID": "273",
+
+"C_E_NODE_ID": "460",
+
+"ROUTE_CONF_SERIALNUM": "57",
+
+"ROUTE_NO_LIST": "1000",
+
+"LINK_LEN_KM": "0.39",
+
+"BUS_YN": "Y",
+
+"SPEED": "83.25",
+
+"SPEED_BUS": "89.58",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "대왕판교IC",
+
+"CONZONE_ID": "0010CZE500",
+
+"C_S_NODE_NM": "대왕판교IC",
+
+"C_E_NODE_NM": "양재IC",
+
+"C_S_NODE_ID": "460",
+
+"C_E_NODE_ID": "238",
+
+"ROUTE_CONF_SERIALNUM": "58",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.62",
+
+"BUS_YN": "Y",
+
+"SPEED": "67.02",
+
+"SPEED_BUS": "84.8",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "410.3",
+
+"CCTV_ID": "cctv00000005",
+
+"CCTV_SEQ": "219",
+
+"CAMERA_AREA": "달래내1",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0005.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0005image/ch00000005_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "양재부근(415K)-반포(421K)"
+
+},
+
+{
+
+"NODE_NM": "대왕판교IC",
+
+"CONZONE_ID": "0010CZE500",
+
+"C_S_NODE_NM": "대왕판교IC",
+
+"C_E_NODE_NM": "양재IC",
+
+"C_S_NODE_ID": "460",
+
+"C_E_NODE_ID": "238",
+
+"ROUTE_CONF_SERIALNUM": "58",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.62",
+
+"BUS_YN": "Y",
+
+"SPEED": "67.02",
+
+"SPEED_BUS": "84.8",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "411.4",
+
+"CCTV_ID": "cctv00000004",
+
+"CCTV_SEQ": "220",
+
+"CAMERA_AREA": "달래내2",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0004.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0004image/ch00000004_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "양재부근(415K)-반포(421K)"
+
+},
+
+{
+
+"NODE_NM": "대왕판교IC",
+
+"CONZONE_ID": "0010CZE500",
+
+"C_S_NODE_NM": "대왕판교IC",
+
+"C_E_NODE_NM": "양재IC",
+
+"C_S_NODE_ID": "460",
+
+"C_E_NODE_ID": "238",
+
+"ROUTE_CONF_SERIALNUM": "58",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.62",
+
+"BUS_YN": "Y",
+
+"SPEED": "67.02",
+
+"SPEED_BUS": "84.8",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "412.5",
+
+"CCTV_ID": "cctv00000003",
+
+"CCTV_SEQ": "221",
+
+"CAMERA_AREA": "상적교",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0003.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0003image/ch00000003_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "양재부근(415K)-반포(421K)"
+
+},
+
+{
+
+"NODE_NM": "대왕판교IC",
+
+"CONZONE_ID": "0010CZE500",
+
+"C_S_NODE_NM": "대왕판교IC",
+
+"C_E_NODE_NM": "양재IC",
+
+"C_S_NODE_ID": "460",
+
+"C_E_NODE_ID": "238",
+
+"ROUTE_CONF_SERIALNUM": "58",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.62",
+
+"BUS_YN": "Y",
+
+"SPEED": "67.02",
+
+"SPEED_BUS": "84.8",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "413.2",
+
+"CCTV_ID": "cctv00000031",
+
+"CCTV_SEQ": "222",
+
+"CAMERA_AREA": "원지동",
+
+"HLS_URL": "http://live4.exmobile.hscdn.com/exlive/cctv0031.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0031image/ch00000031_20171016.192800.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "양재부근(415K)-반포(421K)"
+
+},
+
+{
+
+"NODE_NM": "대왕판교IC",
+
+"CONZONE_ID": "0010CZE500",
+
+"C_S_NODE_NM": "대왕판교IC",
+
+"C_E_NODE_NM": "양재IC",
+
+"C_S_NODE_ID": "460",
+
+"C_E_NODE_ID": "238",
+
+"ROUTE_CONF_SERIALNUM": "58",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "7.62",
+
+"BUS_YN": "Y",
+
+"SPEED": "67.02",
+
+"SPEED_BUS": "84.8",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "415.32",
+
+"CCTV_ID": "cctv00000002",
+
+"CCTV_SEQ": "223",
+
+"CAMERA_AREA": "양재",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0002.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0002image/ch00000002_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "4",
+
+"INCIDENT_DESC": "차량증가/정체",
+
+"MSG": "차량증가/정체",
+
+"INCIDENT_POS_NAME": "양재부근(415K)-반포(421K)"
+
+},
+
+{
+
+"NODE_NM": "양재IC",
+
+"CONZONE_ID": "0010CZE510",
+
+"C_S_NODE_NM": "양재IC",
+
+"C_E_NODE_NM": "서초IC",
+
+"C_S_NODE_ID": "238",
+
+"C_E_NODE_ID": "237",
+
+"ROUTE_CONF_SERIALNUM": "59",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "2.4900000000000002",
+
+"BUS_YN": "Y",
+
+"SPEED": "100",
+
+"SPEED_BUS": "96.92",
+
+"TRAFFIC_GRADE": "G",
+
+"TRAFFIC_GRADE_BUS": "G",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "서초IC",
+
+"CONZONE_ID": "0010CZE520",
+
+"C_S_NODE_NM": "서초IC",
+
+"C_E_NODE_NM": "반포IC",
+
+"C_S_NODE_ID": "237",
+
+"C_E_NODE_ID": "233",
+
+"ROUTE_CONF_SERIALNUM": "60",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.78",
+
+"BUS_YN": "N",
+
+"SPEED": "19.38",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "R",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "418.6",
+
+"CCTV_ID": "cctv00000001",
+
+"CCTV_SEQ": "224",
+
+"CAMERA_AREA": "서초",
+
+"HLS_URL": "http://live1.exmobile.hscdn.com/exlive/cctv0001.stream/playlist.m3u8",
+
+"FILEURL_IMG": "[email protected]/cctv0001image/ch00000001_20171016.192900.000.jpg",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "반포IC",
+
+"CONZONE_ID": "0010CZE521",
+
+"C_S_NODE_NM": "반포IC",
+
+"C_E_NODE_NM": "잠원IC",
+
+"C_S_NODE_ID": "233",
+
+"C_E_NODE_ID": "487",
+
+"ROUTE_CONF_SERIALNUM": "61",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.38",
+
+"BUS_YN": "N",
+
+"SPEED": "14",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "R",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+},
+
+{
+
+"NODE_NM": "잠원IC",
+
+"CONZONE_ID": "0010CZE522",
+
+"C_S_NODE_NM": "잠원IC",
+
+"C_E_NODE_NM": "한남IC",
+
+"C_S_NODE_ID": "487",
+
+"C_E_NODE_ID": "476",
+
+"ROUTE_CONF_SERIALNUM": "62",
+
+"ROUTE_NO_LIST": ".",
+
+"LINK_LEN_KM": "1.3",
+
+"BUS_YN": "N",
+
+"SPEED": "76",
+
+"SPEED_BUS": "",
+
+"TRAFFIC_GRADE": "Y",
+
+"TRAFFIC_GRADE_BUS": "",
+
+"CCTV_MILEPOST": "",
+
+"CCTV_ID": "",
+
+"CCTV_SEQ": "",
+
+"CAMERA_AREA": "",
+
+"HLS_URL": "",
+
+"FILEURL_IMG": "",
+
+"INCIDENT_TYPE_CD": "",
+
+"INCIDENT_DESC": "",
+
+"MSG": "",
+
+"INCIDENT_POS_NAME": ""
+
+}
+
+
+
+]
+
+}
