@@ -55,4 +55,32 @@ app.get('/routetraffic.do', function(req,res) {
 	});
 });
 
+app.get('/getNoticeInfo.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/getNoticeInfo.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
+app.get('/getNewIncidentInfo.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/getNewIncidentInfo.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
+app.get('/broadvod.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/broadvod.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
+app.get('/broadcast.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/broadcast.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
 
