@@ -90,4 +90,10 @@ app.get('/routeInfo.do', function(req,res) {
 	});
 });
 
+app.get('/nodeInfo.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/nodeInfo.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
 
