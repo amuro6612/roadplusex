@@ -1,1064 +1,851 @@
-﻿{
-	"resultList": [
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "4510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부내륙지선",
-			"SHORT_ROUTE_NO": "451",
-			"ROAD_SHORT_NM": "중부내륙지선",
-			"DIR_NM": "금호방면",
-			"R_NODE_NM": "금호JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "2510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "호남선지선",
-			"SHORT_ROUTE_NO": "251",
-			"ROAD_SHORT_NM": "호남지선",
-			"DIR_NM": "회덕방면",
-			"R_NODE_NM": "회덕JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "3000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대전남부순환선",
-			"SHORT_ROUTE_NO": "300",
-			"ROAD_SHORT_NM": "대전남부선",
-			"DIR_NM": "비룡방면",
-			"R_NODE_NM": "산내JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "200",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대구포항선",
-			"SHORT_ROUTE_NO": "20",
-			"ROAD_SHORT_NM": "대구포항선",
-			"DIR_NM": "포항방면",
-			"R_NODE_NM": "포항IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "550",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중앙선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "중앙선(삼락~대동)",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "삼락IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1710",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "용인서울선",
-			"SHORT_ROUTE_NO": "171",
-			"ROAD_SHORT_NM": "용인서울선",
-			"DIR_NM": "헌릉방면",
-			"R_NODE_NM": "헌릉IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "101",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해선(영암-순천)",
-			"SHORT_ROUTE_NO": "101",
-			"ROAD_SHORT_NM": "남해선",
-			"DIR_NM": "순천방면",
-			"R_NODE_NM": "순천종점(순천시해룡맘獰？C "
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "520",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "광주원주선",
-			"SHORT_ROUTE_NO": "52",
-			"ROAD_SHORT_NM": "광주원주선",
-			"DIR_NM": "원주방면",
-			"R_NODE_NM": "원주JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "600",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서울양양선",
-			"SHORT_ROUTE_NO": "60",
-			"ROAD_SHORT_NM": "서울양양선",
-			"DIR_NM": "양양방면",
-			"R_NODE_NM": "양양JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "4001",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천김포선",
-			"SHORT_ROUTE_NO": "401",
-			"ROAD_SHORT_NM": "인천김포선",
-			"DIR_NM": "인천김포시점방면",
-			"R_NODE_NM": "인천김포시점"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "290",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "구리포천선",
-			"SHORT_ROUTE_NO": "29",
-			"ROAD_SHORT_NM": "구리포천선",
-			"DIR_NM": "남구리방면",
-			"R_NODE_NM": "남구리IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "290",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "구리포천선",
-			"SHORT_ROUTE_NO": "29",
-			"ROAD_SHORT_NM": "구리포천선",
-			"DIR_NM": "신북방면",
-			"R_NODE_NM": "신북IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "3010",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "상주영천선",
-			"SHORT_ROUTE_NO": "301",
-			"ROAD_SHORT_NM": "상주영천선",
-			"DIR_NM": "낙동JC방면",
-			"R_NODE_NM": "낙동JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1040",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해제2지선",
-			"SHORT_ROUTE_NO": "104",
-			"ROAD_SHORT_NM": "남해2지선",
-			"DIR_NM": "냉정방면",
-			"R_NODE_NM": "냉정JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "500",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "영동선",
-			"SHORT_ROUTE_NO": "50",
-			"ROAD_SHORT_NM": "영동선",
-			"DIR_NM": "강릉방면",
-			"R_NODE_NM": "강릉JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "351",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부선(대전통영)",
-			"SHORT_ROUTE_NO": "35",
-			"ROAD_SHORT_NM": "중부선",
-			"DIR_NM": "대전방면",
-			"R_NODE_NM": "비룡JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "200",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대구포항선",
-			"SHORT_ROUTE_NO": "20",
-			"ROAD_SHORT_NM": "대구포항선",
-			"DIR_NM": "대구방면",
-			"R_NODE_NM": "팔공산IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "550",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중앙선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "중앙선(삼락~대동)",
-			"DIR_NM": "대구방면",
-			"R_NODE_NM": "대동JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "651",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "부산울산선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "부산울산선",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "동부산IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "301",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "당진대전선",
-			"SHORT_ROUTE_NO": "30",
-			"ROAD_SHORT_NM": "당진대전선",
-			"DIR_NM": "당진방면",
-			"R_NODE_NM": "당진JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "17",
-			"ROAD_SHORT_NM": "평택화성선",
-			"DIR_NM": "오성방면",
-			"R_NODE_NM": "오성IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "100",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해선",
-			"SHORT_ROUTE_NO": "10",
-			"ROAD_SHORT_NM": "남해선",
-			"DIR_NM": "순천방면",
-			"R_NODE_NM": "서순천IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "550",
-			"PARAM_GROUP_ID": "2",
-			"ROAD_NM": "중앙선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "중앙선(금호~춘천)",
-			"DIR_NM": "대구방면",
-			"R_NODE_NM": "금호JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "10",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "경부선",
-			"SHORT_ROUTE_NO": "1",
-			"ROAD_SHORT_NM": "경부선",
-			"DIR_NM": "서울방면",
-			"R_NODE_NM": "한남IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천국제공항선",
-			"SHORT_ROUTE_NO": "130",
-			"ROAD_SHORT_NM": "인천공항선",
-			"DIR_NM": "북로방면",
-			"R_NODE_NM": "북로JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1200",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "경인선",
-			"SHORT_ROUTE_NO": "120",
-			"ROAD_SHORT_NM": "경인선",
-			"DIR_NM": "인천방면",
-			"R_NODE_NM": "인천시점"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "450",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부내륙선",
-			"SHORT_ROUTE_NO": "45",
-			"ROAD_SHORT_NM": "중부내륙선",
-			"DIR_NM": "마산방면",
-			"R_NODE_NM": "내서JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "153",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택시흥선",
-			"SHORT_ROUTE_NO": "153",
-			"ROAD_SHORT_NM": "평택시흥선",
-			"DIR_NM": "서평택방면",
-			"R_NODE_NM": "서평택JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "2",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "17",
-			"ROAD_SHORT_NM": "수원광명선",
-			"DIR_NM": "봉담방면",
-			"R_NODE_NM": "봉담IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1020",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해제1지선",
-			"SHORT_ROUTE_NO": "102",
-			"ROAD_SHORT_NM": "남해1지선",
-			"DIR_NM": "산인방면",
-			"R_NODE_NM": "산인JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "251",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "호남선",
-			"SHORT_ROUTE_NO": "25",
-			"ROAD_SHORT_NM": "호남선",
-			"DIR_NM": "순천방면",
-			"R_NODE_NM": "서순천IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서울외곽순환선",
-			"SHORT_ROUTE_NO": "100",
-			"ROAD_SHORT_NM": "서울외곽선",
-			"DIR_NM": "판교-구리방면",
-			"R_NODE_NM": "청계TG"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "3300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제3경인선",
-			"SHORT_ROUTE_NO": "330",
-			"ROAD_SHORT_NM": "제3경인선",
-			"DIR_NM": "시흥방면",
-			"R_NODE_NM": "목감IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "140",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "고창담양선",
-			"SHORT_ROUTE_NO": "253",
-			"ROAD_SHORT_NM": "고창담양선",
-			"DIR_NM": "담양방면",
-			"R_NODE_NM": "대덕JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "651",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "부산울산선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "부산울산선",
-			"DIR_NM": "울산방면",
-			"R_NODE_NM": "울산JCT"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "17",
-			"ROAD_SHORT_NM": "평택화성선",
-			"DIR_NM": "봉담방면",
-			"R_NODE_NM": "봉담IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1102",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천대교선",
-			"SHORT_ROUTE_NO": "110",
-			"ROAD_SHORT_NM": "인천대교선",
-			"DIR_NM": "공항방면",
-			"R_NODE_NM": "연수JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "150",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서해안선",
-			"SHORT_ROUTE_NO": "15",
-			"ROAD_SHORT_NM": "서해안선",
-			"DIR_NM": "목포방면",
-			"R_NODE_NM": "서해안선시점"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "400",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택제천선",
-			"SHORT_ROUTE_NO": "40",
-			"ROAD_SHORT_NM": "평택충주선",
-			"DIR_NM": "제천방면",
-			"R_NODE_NM": "제천JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "청주영덕선",
-			"SHORT_ROUTE_NO": "30",
-			"ROAD_SHORT_NM": "청주영덕선",
-			"DIR_NM": "청주방면",
-			"R_NODE_NM": "청주JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "4001",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천김포선",
-			"SHORT_ROUTE_NO": "401",
-			"ROAD_SHORT_NM": "인천김포선",
-			"DIR_NM": "서김포방면",
-			"R_NODE_NM": "서김포IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "552",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대구부산선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "대구부산선",
-			"DIR_NM": "대구방면",
-			"R_NODE_NM": "동대구JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "552",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대구부산선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "대구부산선",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "대동JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "2510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "호남선지선",
-			"SHORT_ROUTE_NO": "251",
-			"ROAD_SHORT_NM": "호남지선",
-			"DIR_NM": "논산방면",
-			"R_NODE_NM": "논산JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "201",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "익산장수선",
-			"SHORT_ROUTE_NO": "20",
-			"ROAD_SHORT_NM": "익산장수선",
-			"DIR_NM": "익산방면",
-			"R_NODE_NM": "익산JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "370",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2중부선",
-			"SHORT_ROUTE_NO": "37",
-			"ROAD_SHORT_NM": "제2중부선",
-			"DIR_NM": "하남방면",
-			"R_NODE_NM": "산곡JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "4000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "봉담동탄선",
-			"SHORT_ROUTE_NO": "400",
-			"ROAD_SHORT_NM": "봉담동탄선",
-			"DIR_NM": "동탄방면",
-			"R_NODE_NM": "동탄JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1102",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천대교선",
-			"SHORT_ROUTE_NO": "110",
-			"ROAD_SHORT_NM": "인천대교선",
-			"DIR_NM": "학익방면",
-			"R_NODE_NM": "송도IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "121",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "무안광주선",
-			"SHORT_ROUTE_NO": "12",
-			"ROAD_SHORT_NM": "무안광주선",
-			"DIR_NM": "무안방면",
-			"R_NODE_NM": "무안공항IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1710",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "용인서울선",
-			"SHORT_ROUTE_NO": "171",
-			"ROAD_SHORT_NM": "용인서울선",
-			"DIR_NM": "흥덕방면",
-			"R_NODE_NM": "흥덕IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "400",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택제천선",
-			"SHORT_ROUTE_NO": "40",
-			"ROAD_SHORT_NM": "평택충주선",
-			"DIR_NM": "서평택방면",
-			"R_NODE_NM": "서평택JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "청주영덕선",
-			"SHORT_ROUTE_NO": "30",
-			"ROAD_SHORT_NM": "청주영덕선",
-			"DIR_NM": "영덕방면",
-			"R_NODE_NM": "청주영덕선종점"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "252",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "천안논산선",
-			"SHORT_ROUTE_NO": "252",
-			"ROAD_SHORT_NM": "논산천안선",
-			"DIR_NM": "천안방면",
-			"R_NODE_NM": "천안JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "351",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부선(대전통영)",
-			"SHORT_ROUTE_NO": "35",
-			"ROAD_SHORT_NM": "중부선",
-			"DIR_NM": "통영방면",
-			"R_NODE_NM": "통영IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "201",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "익산장수선",
-			"SHORT_ROUTE_NO": "20",
-			"ROAD_SHORT_NM": "익산장수선",
-			"DIR_NM": "장수방면",
-			"R_NODE_NM": "장수JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "4000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "봉담동탄선",
-			"SHORT_ROUTE_NO": "400",
-			"ROAD_SHORT_NM": "봉담동탄선",
-			"DIR_NM": "봉담방면",
-			"R_NODE_NM": "서오산JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "160",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "울산선",
-			"SHORT_ROUTE_NO": "16",
-			"ROAD_SHORT_NM": "울산선",
-			"DIR_NM": "울산방면",
-			"R_NODE_NM": "울산IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "550",
-			"PARAM_GROUP_ID": "2",
-			"ROAD_NM": "중앙선",
-			"SHORT_ROUTE_NO": "55",
-			"ROAD_SHORT_NM": "중앙선(금호~춘천)",
-			"DIR_NM": "춘천방면",
-			"R_NODE_NM": "춘천IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "10",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "경부선",
-			"SHORT_ROUTE_NO": "1",
-			"ROAD_SHORT_NM": "경부선",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "경부선시점"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "520",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "광주원주선",
-			"SHORT_ROUTE_NO": "52",
-			"ROAD_SHORT_NM": "광주원주선",
-			"DIR_NM": "경기광주방면",
-			"R_NODE_NM": "경기광주JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1100",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2경인선",
-			"SHORT_ROUTE_NO": "110",
-			"ROAD_SHORT_NM": "제2경인선",
-			"DIR_NM": "인천방면",
-			"R_NODE_NM": "인천시점"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "252",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "천안논산선",
-			"SHORT_ROUTE_NO": "252",
-			"ROAD_SHORT_NM": "논산천안선",
-			"DIR_NM": "논산방면",
-			"R_NODE_NM": "논산JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "352",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부선",
-			"SHORT_ROUTE_NO": "35",
-			"ROAD_SHORT_NM": "중부선",
-			"DIR_NM": "남이방면",
-			"R_NODE_NM": "남이JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서울외곽순환선",
-			"SHORT_ROUTE_NO": "100",
-			"ROAD_SHORT_NM": "서울외곽선",
-			"DIR_NM": "판교-일산방면",
-			"R_NODE_NM": "판교JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "370",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2중부선",
-			"SHORT_ROUTE_NO": "37",
-			"ROAD_SHORT_NM": "제2중부선",
-			"DIR_NM": "이천방면",
-			"R_NODE_NM": "마장JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서천공주선",
-			"SHORT_ROUTE_NO": "151",
-			"ROAD_SHORT_NM": "서천공주선",
-			"DIR_NM": "서공주방면",
-			"R_NODE_NM": "서공주JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "100",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해선",
-			"SHORT_ROUTE_NO": "10",
-			"ROAD_SHORT_NM": "남해선",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "구포IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "인천국제공항선",
-			"SHORT_ROUTE_NO": "130",
-			"ROAD_SHORT_NM": "인천공항선",
-			"DIR_NM": "공항방면",
-			"R_NODE_NM": "신불IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "150",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서해안선",
-			"SHORT_ROUTE_NO": "15",
-			"ROAD_SHORT_NM": "서해안선",
-			"DIR_NM": "서울방면",
-			"R_NODE_NM": "서해안선종점"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "101",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해선(영암-순천)",
-			"SHORT_ROUTE_NO": "101",
-			"ROAD_SHORT_NM": "남해선",
-			"DIR_NM": "영암방면",
-			"R_NODE_NM": "영암시점(영암군학산맑？돗？G"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "153",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "평택시흥선",
-			"SHORT_ROUTE_NO": "153",
-			"ROAD_SHORT_NM": "평택시흥선",
-			"DIR_NM": "군자방면",
-			"R_NODE_NM": "군자JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "652",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "울산포항선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "울산포항선",
-			"DIR_NM": "포항방면",
-			"R_NODE_NM": "남포항IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "4002",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2외곽선",
-			"SHORT_ROUTE_NO": "400",
-			"ROAD_SHORT_NM": "제2외곽선",
-			"DIR_NM": "소흘방면",
-			"R_NODE_NM": "소흘JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "120",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "광주대구선",
-			"SHORT_ROUTE_NO": "12",
-			"ROAD_SHORT_NM": "광주대구선",
-			"DIR_NM": "대구방면",
-			"R_NODE_NM": "옥포JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "500",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "영동선",
-			"SHORT_ROUTE_NO": "50",
-			"ROAD_SHORT_NM": "영동선",
-			"DIR_NM": "인천방면",
-			"R_NODE_NM": "영동선시점"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1020",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해제1지선",
-			"SHORT_ROUTE_NO": "102",
-			"ROAD_SHORT_NM": "남해1지선",
-			"DIR_NM": "창원방면",
-			"R_NODE_NM": "창원JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "251",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "호남선",
-			"SHORT_ROUTE_NO": "25",
-			"ROAD_SHORT_NM": "호남선",
-			"DIR_NM": "논산방면",
-			"R_NODE_NM": "논산JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "352",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부선",
-			"SHORT_ROUTE_NO": "35",
-			"ROAD_SHORT_NM": "중부선",
-			"DIR_NM": "하남방면",
-			"R_NODE_NM": "하남JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "1510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서천공주선",
-			"SHORT_ROUTE_NO": "151",
-			"ROAD_SHORT_NM": "서천공주선",
-			"DIR_NM": "동서천방면",
-			"R_NODE_NM": "동서천IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "3",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "171",
-			"ROAD_SHORT_NM": "오성화성선",
-			"DIR_NM": "안녕방면",
-			"R_NODE_NM": "안녕IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "3",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "171",
-			"ROAD_SHORT_NM": "오성화성선",
-			"DIR_NM": "서오산방면",
-			"R_NODE_NM": "서오산JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1200",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "경인선",
-			"SHORT_ROUTE_NO": "120",
-			"ROAD_SHORT_NM": "경인선",
-			"DIR_NM": "서울방면",
-			"R_NODE_NM": "목동교IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "600",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "서울양양선",
-			"SHORT_ROUTE_NO": "60",
-			"ROAD_SHORT_NM": "서울양양선",
-			"DIR_NM": "서울방면",
-			"R_NODE_NM": "강일IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "650",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "동해선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "동해선",
-			"DIR_NM": "속초방면",
-			"R_NODE_NM": "속초IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "105",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "부산신항만제2배후도로",
-			"SHORT_ROUTE_NO": "105",
-			"ROAD_SHORT_NM": "제2배후도로",
-			"DIR_NM": "남문대교방면",
-			"R_NODE_NM": "남문대교"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "105",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "부산신항만제2배후도로",
-			"SHORT_ROUTE_NO": "105",
-			"ROAD_SHORT_NM": "제2배후도로",
-			"DIR_NM": "진례JC방면",
-			"R_NODE_NM": "진례JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "4002",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2외곽선",
-			"SHORT_ROUTE_NO": "400",
-			"ROAD_SHORT_NM": "제2외곽선",
-			"DIR_NM": "양주방면",
-			"R_NODE_NM": "양주IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "3010",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "상주영천선",
-			"SHORT_ROUTE_NO": "301",
-			"ROAD_SHORT_NM": "상주영천선",
-			"DIR_NM": "영천JC방면",
-			"R_NODE_NM": "영천JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1040",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "남해제2지선",
-			"SHORT_ROUTE_NO": "104",
-			"ROAD_SHORT_NM": "남해2지선",
-			"DIR_NM": "부산방면",
-			"R_NODE_NM": "감전IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "4510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부내륙지선",
-			"SHORT_ROUTE_NO": "451",
-			"ROAD_SHORT_NM": "중부내륙지선",
-			"DIR_NM": "현풍방면",
-			"R_NODE_NM": "현풍JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "120",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "광주대구선",
-			"SHORT_ROUTE_NO": "12",
-			"ROAD_SHORT_NM": "광주대구선",
-			"DIR_NM": "광주방면",
-			"R_NODE_NM": "고서JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "3000",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "대전남부순환선",
-			"SHORT_ROUTE_NO": "300",
-			"ROAD_SHORT_NM": "대전남부선",
-			"DIR_NM": "서대전방면",
-			"R_NODE_NM": "서대전JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "5510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중앙선지선",
-			"SHORT_ROUTE_NO": "551",
-			"ROAD_SHORT_NM": "중앙지선",
-			"DIR_NM": "양산방면",
-			"R_NODE_NM": "양산JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "5510",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중앙선지선",
-			"SHORT_ROUTE_NO": "551",
-			"ROAD_SHORT_NM": "중앙지선",
-			"DIR_NM": "김해방면",
-			"R_NODE_NM": "김해JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "3300",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제3경인선",
-			"SHORT_ROUTE_NO": "330",
-			"ROAD_SHORT_NM": "제3경인선",
-			"DIR_NM": "인천방면",
-			"R_NODE_NM": "고잔영업소"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "140",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "고창담양선",
-			"SHORT_ROUTE_NO": "253",
-			"ROAD_SHORT_NM": "고창담양선",
-			"DIR_NM": "고창방면",
-			"R_NODE_NM": "고창JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "301",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "당진대전선",
-			"SHORT_ROUTE_NO": "30",
-			"ROAD_SHORT_NM": "당진대전선",
-			"DIR_NM": "유성방면",
-			"R_NODE_NM": "유성JC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "160",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "울산선",
-			"SHORT_ROUTE_NO": "16",
-			"ROAD_SHORT_NM": "울산선",
-			"DIR_NM": "언양방면",
-			"R_NODE_NM": "언양JC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "121",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "무안광주선",
-			"SHORT_ROUTE_NO": "12",
-			"ROAD_SHORT_NM": "무안광주선",
-			"DIR_NM": "광주방면",
-			"R_NODE_NM": "운수IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "270",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "순천완주선",
-			"SHORT_ROUTE_NO": "27",
-			"ROAD_SHORT_NM": "순천완주선",
-			"DIR_NM": "광양방면",
-			"R_NODE_NM": "순천완주선시점"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "270",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "순천완주선",
-			"SHORT_ROUTE_NO": "27",
-			"ROAD_SHORT_NM": "순천완주선",
-			"DIR_NM": "전주방면",
-			"R_NODE_NM": "순천완주선종점"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "450",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "중부내륙선",
-			"SHORT_ROUTE_NO": "45",
-			"ROAD_SHORT_NM": "중부내륙선",
-			"DIR_NM": "양평방면",
-			"R_NODE_NM": "양평IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "652",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "울산포항선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "울산포항선",
-			"DIR_NM": "울산방면",
-			"R_NODE_NM": "울산JCT"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "170",
-			"PARAM_GROUP_ID": "2",
-			"ROAD_NM": "평택화성선",
-			"SHORT_ROUTE_NO": "17",
-			"ROAD_SHORT_NM": "수원광명선",
-			"DIR_NM": "소하방면",
-			"R_NODE_NM": "소하IC"
-		},
-		{
-			"UPDOWN_DIV": "S",
-			"ROUTE_NO": "650",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "동해선",
-			"SHORT_ROUTE_NO": "65",
-			"ROAD_SHORT_NM": "동해선",
-			"DIR_NM": "남삼척방면",
-			"R_NODE_NM": "남삼척IC"
-		},
-		{
-			"UPDOWN_DIV": "E",
-			"ROUTE_NO": "1100",
-			"PARAM_GROUP_ID": "1",
-			"ROAD_NM": "제2경인선",
-			"SHORT_ROUTE_NO": "110",
-			"ROAD_SHORT_NM": "제2경인선",
-			"DIR_NM": "안양방면",
-			"R_NODE_NM": "여수고가교"
+{
+	"resultList": [{
+			"UpDownDir": "E",
+			"RouteCd": "4510",
+			"GrpId": "1",
+			"RouteShortNo": "451",
+			"RouteNm": "중부내륙지선",
+			"RouteDirNm": "금호방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "2510",
+			"GrpId": "1",
+			"RouteShortNo": "251",
+			"RouteNm": "호남지선",
+			"RouteDirNm": "회덕방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "3000",
+			"GrpId": "1",
+			"RouteShortNo": "300",
+			"RouteNm": "대전남부선",
+			"RouteDirNm": "비룡방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "200",
+			"GrpId": "1",
+			"RouteShortNo": "20",
+			"RouteNm": "대구포항선",
+			"RouteDirNm": "포항방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "550",
+			"GrpId": "1",
+			"RouteShortNo": "55",
+			"RouteNm": "중앙선(삼락~대동)",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1710",
+			"GrpId": "1",
+			"RouteShortNo": "171",
+			"RouteNm": "용인서울선",
+			"RouteDirNm": "헌릉방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "101",
+			"GrpId": "1",
+			"RouteShortNo": "101",
+			"RouteNm": "남해선",
+			"RouteDirNm": "순천방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "520",
+			"GrpId": "1",
+			"RouteShortNo": "52",
+			"RouteNm": "광주원주선",
+			"RouteDirNm": "원주방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "600",
+			"GrpId": "1",
+			"RouteShortNo": "60",
+			"RouteNm": "서울양양선",
+			"RouteDirNm": "양양방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "4001",
+			"GrpId": "1",
+			"RouteShortNo": "401",
+			"RouteNm": "인천김포선",
+			"RouteDirNm": "인천김포시점방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "290",
+			"GrpId": "1",
+			"RouteShortNo": "29",
+			"RouteNm": "구리포천선",
+			"RouteDirNm": "남구리방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "290",
+			"GrpId": "1",
+			"RouteShortNo": "29",
+			"RouteNm": "구리포천선",
+			"RouteDirNm": "신북방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "3010",
+			"GrpId": "1",
+			"RouteShortNo": "301",
+			"RouteNm": "상주영천선",
+			"RouteDirNm": "낙동JC방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1040",
+			"GrpId": "1",
+			"RouteShortNo": "104",
+			"RouteNm": "남해2지선",
+			"RouteDirNm": "냉정방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "500",
+			"GrpId": "1",
+			"RouteShortNo": "50",
+			"RouteNm": "영동선",
+			"RouteDirNm": "강릉방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "351",
+			"GrpId": "1",
+			"RouteShortNo": "35",
+			"RouteNm": "중부선",
+			"RouteDirNm": "대전방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "200",
+			"GrpId": "1",
+			"RouteShortNo": "20",
+			"RouteNm": "대구포항선",
+			"RouteDirNm": "대구방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "550",
+			"GrpId": "1",
+			"RouteShortNo": "55",
+			"RouteNm": "중앙선(삼락~대동)",
+			"RouteDirNm": "대구방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "651",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "부산울산선",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "301",
+			"GrpId": "1",
+			"RouteShortNo": "30",
+			"RouteNm": "당진대전선",
+			"RouteDirNm": "당진방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "170",
+			"GrpId": "1",
+			"RouteShortNo": "17",
+			"RouteNm": "평택화성선",
+			"RouteDirNm": "오성방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "100",
+			"GrpId": "1",
+			"RouteShortNo": "10",
+			"RouteNm": "남해선",
+			"RouteDirNm": "순천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "550",
+			"GrpId": "2",
+			"RouteShortNo": "55",
+			"RouteNm": "중앙선(금호~춘천)",
+			"RouteDirNm": "대구방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "10",
+			"GrpId": "1",
+			"RouteShortNo": "1",
+			"RouteNm": "경부선",
+			"RouteDirNm": "서울방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1300",
+			"GrpId": "1",
+			"RouteShortNo": "130",
+			"RouteNm": "인천공항선",
+			"RouteDirNm": "북로방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1200",
+			"GrpId": "1",
+			"RouteShortNo": "120",
+			"RouteNm": "경인선",
+			"RouteDirNm": "인천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "450",
+			"GrpId": "1",
+			"RouteShortNo": "45",
+			"RouteNm": "중부내륙선",
+			"RouteDirNm": "마산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "153",
+			"GrpId": "1",
+			"RouteShortNo": "153",
+			"RouteNm": "평택시흥선",
+			"RouteDirNm": "서평택방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "170",
+			"GrpId": "2",
+			"RouteShortNo": "17",
+			"RouteNm": "수원광명선",
+			"RouteDirNm": "봉담방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1020",
+			"GrpId": "1",
+			"RouteShortNo": "102",
+			"RouteNm": "남해1지선",
+			"RouteDirNm": "산인방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "251",
+			"GrpId": "1",
+			"RouteShortNo": "25",
+			"RouteNm": "호남선",
+			"RouteDirNm": "순천방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1000",
+			"GrpId": "1",
+			"RouteShortNo": "100",
+			"RouteNm": "서울외곽선",
+			"RouteDirNm": "판교-구리방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "3300",
+			"GrpId": "1",
+			"RouteShortNo": "330",
+			"RouteNm": "제3경인선",
+			"RouteDirNm": "시흥방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "140",
+			"GrpId": "1",
+			"RouteShortNo": "253",
+			"RouteNm": "고창담양선",
+			"RouteDirNm": "담양방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "651",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "부산울산선",
+			"RouteDirNm": "울산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "170",
+			"GrpId": "1",
+			"RouteShortNo": "17",
+			"RouteNm": "평택화성선",
+			"RouteDirNm": "봉담방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1102",
+			"GrpId": "1",
+			"RouteShortNo": "110",
+			"RouteNm": "인천대교선",
+			"RouteDirNm": "공항방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "150",
+			"GrpId": "1",
+			"RouteShortNo": "15",
+			"RouteNm": "서해안선",
+			"RouteDirNm": "목포방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "400",
+			"GrpId": "1",
+			"RouteShortNo": "40",
+			"RouteNm": "평택충주선",
+			"RouteDirNm": "제천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "300",
+			"GrpId": "1",
+			"RouteShortNo": "30",
+			"RouteNm": "청주영덕선",
+			"RouteDirNm": "청주방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "4001",
+			"GrpId": "1",
+			"RouteShortNo": "401",
+			"RouteNm": "인천김포선",
+			"RouteDirNm": "서김포방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "552",
+			"GrpId": "1",
+			"RouteShortNo": "55",
+			"RouteNm": "대구부산선",
+			"RouteDirNm": "대구방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "552",
+			"GrpId": "1",
+			"RouteShortNo": "55",
+			"RouteNm": "대구부산선",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "2510",
+			"GrpId": "1",
+			"RouteShortNo": "251",
+			"RouteNm": "호남지선",
+			"RouteDirNm": "논산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "201",
+			"GrpId": "1",
+			"RouteShortNo": "20",
+			"RouteNm": "익산장수선",
+			"RouteDirNm": "익산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "370",
+			"GrpId": "1",
+			"RouteShortNo": "37",
+			"RouteNm": "제2중부선",
+			"RouteDirNm": "하남방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "4000",
+			"GrpId": "1",
+			"RouteShortNo": "400",
+			"RouteNm": "봉담동탄선",
+			"RouteDirNm": "동탄방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1102",
+			"GrpId": "1",
+			"RouteShortNo": "110",
+			"RouteNm": "인천대교선",
+			"RouteDirNm": "학익방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "121",
+			"GrpId": "1",
+			"RouteShortNo": "12",
+			"RouteNm": "무안광주선",
+			"RouteDirNm": "무안방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1710",
+			"GrpId": "1",
+			"RouteShortNo": "171",
+			"RouteNm": "용인서울선",
+			"RouteDirNm": "흥덕방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "400",
+			"GrpId": "1",
+			"RouteShortNo": "40",
+			"RouteNm": "평택충주선",
+			"RouteDirNm": "서평택방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "300",
+			"GrpId": "1",
+			"RouteShortNo": "30",
+			"RouteNm": "청주영덕선",
+			"RouteDirNm": "영덕방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "252",
+			"GrpId": "1",
+			"RouteShortNo": "252",
+			"RouteNm": "논산천안선",
+			"RouteDirNm": "천안방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "351",
+			"GrpId": "1",
+			"RouteShortNo": "35",
+			"RouteNm": "중부선",
+			"RouteDirNm": "통영방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "201",
+			"GrpId": "1",
+			"RouteShortNo": "20",
+			"RouteNm": "익산장수선",
+			"RouteDirNm": "장수방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "4000",
+			"GrpId": "1",
+			"RouteShortNo": "400",
+			"RouteNm": "봉담동탄선",
+			"RouteDirNm": "봉담방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "160",
+			"GrpId": "1",
+			"RouteShortNo": "16",
+			"RouteNm": "울산선",
+			"RouteDirNm": "울산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "550",
+			"GrpId": "2",
+			"RouteShortNo": "55",
+			"RouteNm": "중앙선(금호~춘천)",
+			"RouteDirNm": "춘천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "10",
+			"GrpId": "1",
+			"RouteShortNo": "1",
+			"RouteNm": "경부선",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "520",
+			"GrpId": "1",
+			"RouteShortNo": "52",
+			"RouteNm": "광주원주선",
+			"RouteDirNm": "경기광주방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1100",
+			"GrpId": "1",
+			"RouteShortNo": "110",
+			"RouteNm": "제2경인선",
+			"RouteDirNm": "인천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "252",
+			"GrpId": "1",
+			"RouteShortNo": "252",
+			"RouteNm": "논산천안선",
+			"RouteDirNm": "논산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "352",
+			"GrpId": "1",
+			"RouteShortNo": "35",
+			"RouteNm": "중부선",
+			"RouteDirNm": "남이방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1000",
+			"GrpId": "1",
+			"RouteShortNo": "100",
+			"RouteNm": "서울외곽선",
+			"RouteDirNm": "판교-일산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "370",
+			"GrpId": "1",
+			"RouteShortNo": "37",
+			"RouteNm": "제2중부선",
+			"RouteDirNm": "이천방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1510",
+			"GrpId": "1",
+			"RouteShortNo": "151",
+			"RouteNm": "서천공주선",
+			"RouteDirNm": "서공주방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "100",
+			"GrpId": "1",
+			"RouteShortNo": "10",
+			"RouteNm": "남해선",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1300",
+			"GrpId": "1",
+			"RouteShortNo": "130",
+			"RouteNm": "인천공항선",
+			"RouteDirNm": "공항방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "150",
+			"GrpId": "1",
+			"RouteShortNo": "15",
+			"RouteNm": "서해안선",
+			"RouteDirNm": "서울방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "101",
+			"GrpId": "1",
+			"RouteShortNo": "101",
+			"RouteNm": "남해선",
+			"RouteDirNm": "영암방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "153",
+			"GrpId": "1",
+			"RouteShortNo": "153",
+			"RouteNm": "평택시흥선",
+			"RouteDirNm": "군자방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "652",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "울산포항선",
+			"RouteDirNm": "포항방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "4002",
+			"GrpId": "1",
+			"RouteShortNo": "400",
+			"RouteNm": "제2외곽선",
+			"RouteDirNm": "소흘방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "120",
+			"GrpId": "1",
+			"RouteShortNo": "12",
+			"RouteNm": "광주대구선",
+			"RouteDirNm": "대구방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "500",
+			"GrpId": "1",
+			"RouteShortNo": "50",
+			"RouteNm": "영동선",
+			"RouteDirNm": "인천방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1020",
+			"GrpId": "1",
+			"RouteShortNo": "102",
+			"RouteNm": "남해1지선",
+			"RouteDirNm": "창원방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "251",
+			"GrpId": "1",
+			"RouteShortNo": "25",
+			"RouteNm": "호남선",
+			"RouteDirNm": "논산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "352",
+			"GrpId": "1",
+			"RouteShortNo": "35",
+			"RouteNm": "중부선",
+			"RouteDirNm": "하남방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "1510",
+			"GrpId": "1",
+			"RouteShortNo": "151",
+			"RouteNm": "서천공주선",
+			"RouteDirNm": "동서천방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "170",
+			"GrpId": "3",
+			"RouteShortNo": "171",
+			"RouteNm": "오성화성선",
+			"RouteDirNm": "안녕방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "170",
+			"GrpId": "3",
+			"RouteShortNo": "171",
+			"RouteNm": "오성화성선",
+			"RouteDirNm": "서오산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1200",
+			"GrpId": "1",
+			"RouteShortNo": "120",
+			"RouteNm": "경인선",
+			"RouteDirNm": "서울방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "600",
+			"GrpId": "1",
+			"RouteShortNo": "60",
+			"RouteNm": "서울양양선",
+			"RouteDirNm": "서울방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "650",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "동해선",
+			"RouteDirNm": "속초방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "105",
+			"GrpId": "1",
+			"RouteShortNo": "105",
+			"RouteNm": "제2배후도로",
+			"RouteDirNm": "남문대교방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "105",
+			"GrpId": "1",
+			"RouteShortNo": "105",
+			"RouteNm": "제2배후도로",
+			"RouteDirNm": "진례JC방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "4002",
+			"GrpId": "1",
+			"RouteShortNo": "400",
+			"RouteNm": "제2외곽선",
+			"RouteDirNm": "양주방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "3010",
+			"GrpId": "1",
+			"RouteShortNo": "301",
+			"RouteNm": "상주영천선",
+			"RouteDirNm": "영천JC방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1040",
+			"GrpId": "1",
+			"RouteShortNo": "104",
+			"RouteNm": "남해2지선",
+			"RouteDirNm": "부산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "4510",
+			"GrpId": "1",
+			"RouteShortNo": "451",
+			"RouteNm": "중부내륙지선",
+			"RouteDirNm": "현풍방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "120",
+			"GrpId": "1",
+			"RouteShortNo": "12",
+			"RouteNm": "광주대구선",
+			"RouteDirNm": "광주방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "3000",
+			"GrpId": "1",
+			"RouteShortNo": "300",
+			"RouteNm": "대전남부선",
+			"RouteDirNm": "서대전방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "5510",
+			"GrpId": "1",
+			"RouteShortNo": "551",
+			"RouteNm": "중앙지선",
+			"RouteDirNm": "양산방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "5510",
+			"GrpId": "1",
+			"RouteShortNo": "551",
+			"RouteNm": "중앙지선",
+			"RouteDirNm": "김해방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "3300",
+			"GrpId": "1",
+			"RouteShortNo": "330",
+			"RouteNm": "제3경인선",
+			"RouteDirNm": "인천방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "140",
+			"GrpId": "1",
+			"RouteShortNo": "253",
+			"RouteNm": "고창담양선",
+			"RouteDirNm": "고창방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "301",
+			"GrpId": "1",
+			"RouteShortNo": "30",
+			"RouteNm": "당진대전선",
+			"RouteDirNm": "유성방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "160",
+			"GrpId": "1",
+			"RouteShortNo": "16",
+			"RouteNm": "울산선",
+			"RouteDirNm": "언양방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "121",
+			"GrpId": "1",
+			"RouteShortNo": "12",
+			"RouteNm": "무안광주선",
+			"RouteDirNm": "광주방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "270",
+			"GrpId": "1",
+			"RouteShortNo": "27",
+			"RouteNm": "순천완주선",
+			"RouteDirNm": "광양방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "270",
+			"GrpId": "1",
+			"RouteShortNo": "27",
+			"RouteNm": "순천완주선",
+			"RouteDirNm": "전주방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "450",
+			"GrpId": "1",
+			"RouteShortNo": "45",
+			"RouteNm": "중부내륙선",
+			"RouteDirNm": "양평방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "652",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "울산포항선",
+			"RouteDirNm": "울산방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "170",
+			"GrpId": "2",
+			"RouteShortNo": "17",
+			"RouteNm": "수원광명선",
+			"RouteDirNm": "소하방면"
+		},
+		{
+			"UpDownDir": "S",
+			"RouteCd": "650",
+			"GrpId": "1",
+			"RouteShortNo": "65",
+			"RouteNm": "동해선",
+			"RouteDirNm": "남삼척방면"
+		},
+		{
+			"UpDownDir": "E",
+			"RouteCd": "1100",
+			"GrpId": "1",
+			"RouteShortNo": "110",
+			"RouteNm": "제2경인선",
+			"RouteDirNm": "안양방면"
 		}
 	]
 }
