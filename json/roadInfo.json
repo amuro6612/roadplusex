@@ -1,14 +1,5 @@
-{
-	"resultList": [{
-			"UPDOWN_DIV": "DRVE_DRCT_CD",
-			"ROUTE_NO": "ROUTE_CD",
-			"PARAM_GROUP_ID": "GRP_ID",
-			"ROAD_NM": "RPRS_ROTNM",
-			"SHORT_ROUTE_NO": "CTLT_ROUTE_NO",
-			"ROAD_SHORT_NM": "ROUTE_ABRVN",
-			"DIR_NM": "ROUTE_DRNM",
-			"R_NODE_NM": "ROUTE_STND_NODE_NM"
-		},
+﻿{
+	"resultList": [
 		{
 			"UPDOWN_DIV": "E",
 			"ROUTE_NO": "4510",
