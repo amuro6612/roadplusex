@@ -1,0 +1,60 @@
+{
+	"ConzoneList": [{
+		"ConId": "0010CZE005",
+		"ConGrade": "1"
+	}, {
+	    "ConId": "0010CZE005",
+		"ConGrade": "2"
+	}],
+	
+	"VdsList": [{
+    	"VdsId": "0010VDS005",
+		"VdsGrade": "1"
+	
+	}, {
+	    "VdsId": "0010VDS005",
+		"VdsGrade": "2"
+	}],
+	
+	"AccidentList": [{
+    	"AccLat": "37.123",
+		"AccLon": "127.222",
+		"AccMsg": "사고발생"
+	
+	}, {
+	    "AccLat": "37.6612",
+		"AccLon": "127.666",
+		"AccMsg": "사고발생2"
+	}],
+	
+	"ConstructList": [{
+    	"ConLat": "37.999",
+		"ConLon": "127.77",
+		"ConMsg": "공사정보1"
+	
+	}, {
+	    "ConLat": "37.997",
+		"ConLon": "127.75",
+		"ConMsg": "공사정보2"
+	}],
+	"VmsList": [{
+    	"VmsLat": "37.99912",
+		"VmsLon": "127.77124",
+		"VmsMsg": "빗길조심"
+	
+	}, {
+	    "VmsLat": "37.99165657",
+		"VmsLon": "127.751235",
+		"VmsMsg": "사고조심"
+	}],
+	"WeatherList": [{
+    	"WeaLat": "37.99913412",
+		"WeaLon": "127.71347124",
+		"WeaMsg": "맑음"
+	
+	}, {
+	    "WeaLat": "37.939165657",
+		"WeaLon": "127.314751235",
+		"WeaMsg": "비"
+	}]
+}
