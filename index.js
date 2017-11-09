@@ -113,9 +113,12 @@ app.get('/mapInfo.do', function(req,res) {
 
 app.get('/ROUSEN.do', function(req,res) {
 	//console.log(__dirname);
-	fs.readFile(__dirname + '/json' +  '/ROUSEN.zip', 'utf8', function(err, data) {
-	    return res.send(data);
-	});
+	
+	var file = fs.readFileSync(__dirname +  '/json' +  '/ROUSEN.zip', 'binary');
+
+  res.setHeader('Content-Length', file.length);
+  res.write(file, 'binary');
+  res.end();
 });
 
 
