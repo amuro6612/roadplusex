@@ -122,8 +122,8 @@ app.get('/download', function(req,res) {
    res.setHeader('Content-type', mimetype);
 
    var filestream = fs.createReadStream(file);
-   filestream.pipe(res);
-   return;
+   return filestream.pipe(res);
+  
 
   
 });
