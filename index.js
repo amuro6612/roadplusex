@@ -10,6 +10,7 @@ var http = require('http');
 var path = require('path');
 var express = require('express');
 var bodyParser = require('body-parser');
+var mime = require('mime');
 
 var cluster = require('cluster');
 var os = require('os');
@@ -109,6 +110,22 @@ app.get('/mapInfo.do', function(req,res) {
 	fs.readFile(__dirname + '/json' +  '/mapInfo.json', 'utf8', function(err, data) {
 	    return res.send(data);
 	});
+});
+
+app.get('/download', function(req,res) {
+	//console.log(__dirname);
+	
+	 var file = __dirname + '/json' +  '/ROUSEN.zip';
+	 var mimetype = mime.getType( 'ROUSEN.zip' );
+	  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
+   res.setHeader('Content-type', mimetype);
+
+   var filestream = fs.createReadStream(file);
+   return filestream.pipe(res);
+  
+
+  
 });
 
 
