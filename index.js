@@ -128,4 +128,35 @@ app.get('/download', function(req,res) {
   
 });
 
+app.get('/ExpresswayDemo', function(req,res) {
+	//console.log(__dirname);
+	
+	 var file = __dirname + '/json' +  '/ExpresswayDemo_.zip';
+	 var mimetype = mime.getType( 'ExpresswayDemo.zip' );
+	  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
+   res.setHeader('Content-type', mimetype);
+
+   var filestream = fs.createReadStream(file);
+   return filestream.pipe(res);
+  
+
+  
+});
+
+app.get('/location', function(req,res) {
+	//console.log(__dirname);
+	
+	 var file = __dirname + '/json' +  '/location_.zip';
+	 var mimetype = mime.getType( 'location.zip' );
+	  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
+   res.setHeader('Content-type', mimetype);
+
+   var filestream = fs.createReadStream(file);
+   return filestream.pipe(res);
+  
+
+  
+});
 
