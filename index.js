@@ -10,7 +10,6 @@ var http = require('http');
 var path = require('path');
 var express = require('express');
 var bodyParser = require('body-parser');
-var mime = require('mime');
 
 var cluster = require('cluster');
 var os = require('os');
