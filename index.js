@@ -134,7 +134,7 @@ app.get('/location', function(req,res) {
 	 var file = __dirname + '/json' +  '/location.zip';
 	 var mimetype = mime.getType( 'location.zip' );
 	  
-   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'location.zip' ); //origFileNm PC  
    res.setHeader('Content-type', mimetype);
 
    var filestream = fs.createReadStream(file);
@@ -151,7 +151,7 @@ app.get('/ExpresswayDemo', function(req,res) {
 	 var file = __dirname + '/json' +  '/ExpresswayDemo.zip';
 	 var mimetype = mime.getType( 'ExpresswayDemo.zip' );
 	  
-   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'ExpresswayDemo.zip' ); //origFileNm PC  
    res.setHeader('Content-type', mimetype);
 
    var filestream = fs.createReadStream(file);
