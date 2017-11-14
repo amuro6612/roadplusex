@@ -112,6 +112,14 @@ app.get('/mapInfo.do', function(req,res) {
 	});
 });
 
+app.get('/intro.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/intro.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
+
 app.get('/download', function(req,res) {
 	//console.log(__dirname);
 	
