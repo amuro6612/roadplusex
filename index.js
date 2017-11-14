@@ -155,10 +155,10 @@ app.get('/ExpresswayDemo', function(req,res) {
 app.get('/location', function(req,res) {
 	//console.log(__dirname);
 	
-	 var file = __dirname + '/json' +  '/location_.zip';
-	 var mimetype = mime.getType( 'location_.zip' );
+	 var file = __dirname + '/json' +  '/location.db';
+	 var mimetype = mime.getType( 'location.db' );
 	  
-   res.setHeader('Content-disposition', 'attachment; filename=' + 'location.zip' ); //origFileNm PC  
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'location.db' ); //origFileNm PC  
    res.setHeader('Content-type', mimetype);
 
    var filestream = fs.createReadStream(file);
