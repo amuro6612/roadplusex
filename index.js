@@ -128,7 +128,7 @@ app.get('/download', function(req,res) {
   
 });
 
-pp.get('/location', function(req,res) {
+app.get('/location', function(req,res) {
 	//console.log(__dirname);
 	
 	 var file = __dirname + '/json' +  '/location.zip';
@@ -145,7 +145,7 @@ pp.get('/location', function(req,res) {
 });
 
 
-pp.get('/ExpresswayDemo', function(req,res) {
+app.get('/ExpresswayDemo', function(req,res) {
 	//console.log(__dirname);
 	
 	 var file = __dirname + '/json' +  '/ExpresswayDemo.zip';
