@@ -112,20 +112,4 @@ app.get('/mapInfo.do', function(req,res) {
 	});
 });
 
-app.get('/download', function(req,res) {
-	//console.log(__dirname);
-	
-	 var file = __dirname + '/json' +  '/ROUSEN.zip';
-	 var mimetype = mime.getType( 'ROUSEN.zip' );
-	  
-   res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
-   res.setHeader('Content-type', mimetype);
-
-   var filestream = fs.createReadStream(file);
-   return filestream.pipe(res);
-  
-
-  
-});
-
 
