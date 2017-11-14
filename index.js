@@ -125,9 +125,12 @@ app.get('/download', function(req,res) {
 	
 	 var file = __dirname + '/json' +  '/ROUSEN.zip';
 	 var mimetype = mime.getType( 'ROUSEN.zip' );
+	 var stats = fs.statSync(file);
 	  
    res.setHeader('Content-disposition', 'attachment; filename=' + 'ROUSEN.zip' ); //origFileNm PC  
    res.setHeader('Content-type', mimetype);
+   res.setHeader('Content-Length', stats["size"]);
+   
 
    var filestream = fs.createReadStream(file);
    return filestream.pipe(res);
