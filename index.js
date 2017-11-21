@@ -157,6 +157,24 @@ app.get('/ExpresswayDemo', function(req,res) {
   
 });
 
+app.get('/ExpresswayDemo2', function(req,res) {
+	//console.log(__dirname);
+	
+	 var file = __dirname + '/json' +  '/ExpresswayDemo(2).zip';
+	 var mimetype = mime.getType( 'ExpresswayDemo(2).zip' );
+	 
+	 var stats = fs.statSync(file);
+   res.setHeader('Content-disposition', 'attachment; filename=' + 'ExpresswayDemo.zip' ); //origFileNm PC  
+   res.setHeader('Content-type', mimetype);
+   res.setHeader('Content-Length', stats["size"]);
+
+   var filestream = fs.createReadStream(file);
+   return filestream.pipe(res);
+  
+
+  
+});
+
 app.get('/location', function(req,res) {
 	//console.log(__dirname);
 	
