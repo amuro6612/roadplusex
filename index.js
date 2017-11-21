@@ -142,8 +142,8 @@ app.get('/download', function(req,res) {
 app.get('/ExpresswayDemo', function(req,res) {
 	//console.log(__dirname);
 	
-	 var file = __dirname + '/json' +  '/ExpresswayDemo_.zip';
-	 var mimetype = mime.getType( 'ExpresswayDemo_.zip' );
+	 var file = __dirname + '/json' +  '/ExpresswayDemo(2).zip';
+	 var mimetype = mime.getType( 'ExpresswayDemo(2).zip' );
 	 
 	 var stats = fs.statSync(file);
    res.setHeader('Content-disposition', 'attachment; filename=' + 'ExpresswayDemo.zip' ); //origFileNm PC  
