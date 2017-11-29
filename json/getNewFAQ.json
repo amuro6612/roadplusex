@@ -2,19 +2,19 @@
 	"resultList": [{
 		"DATE": "2017-11-09 10:30:33",
 		"TITLE": "공지제목~1~1",
-		"MSG": "공지사항내용 없다1",
+		"MSG": "FAQ 사항내용 없다1",
 		"IMGURL": "http://app.erest.ex.co.kr:8082/HiShimmaru/img/themeimg/S000203-001.png",
 		"VIDEOURL": "https://www.youtube.com/watch?v=YFg6qIOIIhs"
 	}, {
 		"DATE": "2017-11-11 11:42:17",
-		"TITLE": "공지제목222222",
-		"MSG": "공지사항내용 없다2",
+		"TITLE": "FAQ 제목222222",
+		"MSG": "FAQ 사항내용 없다2",
 		"IMGURL": "http://app.erest.ex.co.kr:8082/HiShimmaru/img/themeimg/S000134-001.png",
 		"VIDEOURL": ""
 	}, {
 		"DATE": "2017-11-11 11:42:17",
-		"TITLE": "공지제목2212312452222",
-		"MSG": "공지사항내용 없다2ㅎㅎ",
+		"TITLE": "FAQ 제목2212312452222",
+		"MSG": "FAQ 사항내용 없다2ㅎㅎ",
 		"IMGURL": "",
 		"VIDEOURL": ""
 	}, {
