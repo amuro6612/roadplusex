@@ -127,6 +127,13 @@ app.get('/getNewNotice.do', function(req,res) {
 	});
 });
 
+app.get('/getNewFAQ.do', function(req,res) {
+	//console.log(__dirname);
+	fs.readFile(__dirname + '/json' +  '/getNewFAQ.json', 'utf8', function(err, data) {
+	    return res.send(data);
+	});
+});
+
 app.get('/download', function(req,res) {
 	//console.log(__dirname);
 	
