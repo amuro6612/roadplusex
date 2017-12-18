@@ -3,7 +3,7 @@
 		"MAPVER": "1.57",
 		"NODEVER": "1.10",
 		"ROADVER": "1.10",
-		"HIWAYMILESTONEURL": "1.0",
+		"HIWAYMILESTONEVER": "1.0",
 		"MAPURL": "https://roadplus-ex.herokuapp.com/ExpresswayDemo",
 		"HIWAYMILESTONEURL": "https://roadplus-ex.herokuapp.com/location"
 	}
