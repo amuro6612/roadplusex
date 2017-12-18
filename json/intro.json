@@ -1,10 +1,10 @@
 {
 	"resultList": {
-		"MapVer": "1.57",
-		"NodeVer": "1.10",
-		"RoadVer": "1.10",
-		"HiwayMileStoneVer": "1.0",
-		"MapUrl": "https://roadplus-ex.herokuapp.com/ExpresswayDemo",
-		"HiwayMileStoneUrl": "https://roadplus-ex.herokuapp.com/location"
+		"MAPVER": "1.57",
+		"NODEVER": "1.10",
+		"ROADVER": "1.10",
+		"HIWAYMILESTONEURL": "1.0",
+		"MAPURL": "https://roadplus-ex.herokuapp.com/ExpresswayDemo",
+		"HIWAYMILESTONEURL": "https://roadplus-ex.herokuapp.com/location"
 	}
 }
