@@ -181,10 +181,21 @@
 		],
 		"GuideItems": 44
 	},
-	"Icdt": {
-		"IcdtData": null,
-		"IcdtItems": 0
-	},
+	"Icdt" : {
+      "IcdtData" : [
+         {
+            "IcdtInfo" : [
+               "20171220161553",
+               "04",
+               "정체",
+               "오산부근(376K) 차량증가/정체 [16:15-  :  ]"
+            ],
+            "Index" : 0,
+            "Position" : [ 37.127399444580078, 127.09639739990234 ]
+         }
+      ],
+      "IcdtItems" : 1
+   },
 	"Rest": {
 		"RestData": [{
 				"Index": 0,
